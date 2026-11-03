@@ -56,13 +56,6 @@ not copied from the older October 30 inventory. File sizes are uncompressed.
 | `requirements.txt` | `ddeed8b937edab116f0dabf3a9995aaf88e390ae0aae665cdb67452cc0a7dbf4` | 353 |
 | `LICENSE` | `f424c8bbeea703edf3c0659a64ead0bd280b706ffc74052c19e8e4ed7ea5518c` | 1,534 |
 
-The previously documented hashes that changed in this ZIP were those of the
-parametric generator, full ontology, and three processed TSV datasets. The
-other four hashes from the original nine-file baseline remained unchanged.
-The new README, requirements file, and license fingerprints reflect this
-updated snapshot. This document deliberately does not include its own hash,
-which would be self-referential.
-
 ## Verify fingerprints locally
 
 Run these commands from the **`benchmark/` project root**.
@@ -97,25 +90,3 @@ These versions were available in the validation environment running
 not a claim about the author's original Windows development environment.
 The GUI also needs Tkinter, which is provided by the system Python/Tk package,
 and PyInstaller is optional for packaging only.
-
-Before publishing an official version, record the following alongside the
-release and benchmark experiments:
-
-```text
-Project release/tag:      <assign at release>
-Git commit:               <commit hash after publishing>
-Release date:             2026-11-03 (snapshot date; update when released)
-Python:                  <runtime version in experiments>
-pandas / RDFLib:         <installed and verified versions>
-PyInstaller:             <version if building Windows executable>
-Dataset SHA-256:         <hash of the ontology actually used>
-Datalog translator:      <repository/tag/commit, if applicable>
-Reasoner/runtime:        <i-DLV / Souffle versions and execution options>
-```
-
-### Licensing scope
-
-`LICENSE` uses the MIT License for the project's **original code and
-documentation**, not for third-party or derived data files. Confirm and
-document the distribution rights of files in `data/`, `ontology/`,
-`generated_benchmarks/`, and `archive/` before releasing these datasets.
