@@ -56,7 +56,3 @@ A dedicated **property-as-individual** category would require at least:
 - **MP**: number of metaproperty assertions.
 
 Change one main parameter at a time to avoid confounding reasoning cost with simultaneous growth in other dataset dimensions.
-
-## Before academic publication
-
-Create a manifest documenting input/output file hashes, generator revision, data provenance, semantic entailment regime, conformity to the claimed OWL profile, exact query files, and execution engine versions. RDF statistics alone do not prove rewriting correctness or justify claims about runtime performance.
