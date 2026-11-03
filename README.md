@@ -99,4 +99,4 @@ See [Reports and reproducibility](docs/06_REPORTS_AND_REPRODUCIBILITY.md) for th
 
 ## Licensing, provenance, and distribution
 
-The source data contain Wikidata identifiers and triples assembled from local tables. Such identifiers are not independent validation of the biological claims. **No software LICENSE file was found in the analyzed archive**. Before public release, select an appropriate code license and check the provenance/licensing of included data. Python package versions are not pinned in a lockfile; record the precise versions used for comparable experiments.
+The source data contain Wikidata identifiers and triples assembled from local tables. Such identifiers are not independent validation of the biological claims.
