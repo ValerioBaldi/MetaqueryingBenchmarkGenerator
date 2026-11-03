@@ -1,0 +1,20 @@
+SELECT DISTINCT
+    ?predatorAnimal ?preyAnimal
+    ?predatorTaxon ?preyTaxon
+    ?predatorRank ?preyRank
+    ?predatorParent ?preyParent
+WHERE {
+    ?predatorTaxon ex:predatorOf ?preyTaxon .
+    ?predatorAnimal rdf:type ?predatorTaxon .
+    ?preyAnimal rdf:type ?preyTaxon .
+    ?predatorTaxon rdf:type ex:Taxon .
+    ?preyTaxon rdf:type ex:Taxon .
+    ?predatorTaxon rdf:type ?predatorRank .
+    ?preyTaxon rdf:type ?preyRank .
+    ?predatorRank rdf:type ex:TaxonomicRank .
+    ?preyRank rdf:type ex:TaxonomicRank .
+    ?predatorTaxon rdfs:subClassOf ?predatorParent .
+    ?preyTaxon rdfs:subClassOf ?preyParent .
+    ?predatorParent rdf:type ex:Taxon .
+    ?preyParent rdf:type ex:Taxon .
+}

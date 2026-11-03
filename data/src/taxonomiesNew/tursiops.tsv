@@ -1,0 +1,93 @@
+taxon	parent	rank	name
+http://www.wikidata.org/entity/Q3428352	http://www.wikidata.org/entity/Q25329		Artiofabula
+http://www.wikidata.org/entity/Q727029	http://www.wikidata.org/entity/Q1369337		Cetancodontamorpha
+http://www.wikidata.org/entity/Q5853182	http://www.wikidata.org/entity/Q124775759		Sphenacodontoidea
+http://www.wikidata.org/entity/Q7993757	http://www.wikidata.org/entity/Q727029	http://www.wikidata.org/entity/Q5867959	Whippomorpha
+http://www.wikidata.org/entity/Q2910821	http://www.wikidata.org/entity/Q2497754	http://www.wikidata.org/entity/Q6054535	Boreosphenida
+http://www.wikidata.org/entity/Q215760	http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q35409	Delphinidae
+http://www.wikidata.org/entity/Q160	http://www.wikidata.org/entity/Q24031895	http://www.wikidata.org/entity/Q2889003	Cetacea
+http://www.wikidata.org/entity/Q48836623	http://www.wikidata.org/entity/Q48836620		Neokaryotes
+http://www.wikidata.org/entity/Q68119354	http://www.wikidata.org/entity/Q5414620	http://www.wikidata.org/entity/Q5868144	Paraxonia
+http://www.wikidata.org/entity/Q48995893	http://www.wikidata.org/entity/Q48836623		Podiata
+http://www.wikidata.org/entity/Q5174	http://www.wikidata.org/entity/Q729	http://www.wikidata.org/entity/Q2752679	Eumetazoa
+http://www.wikidata.org/entity/Q5852697	http://www.wikidata.org/entity/Q950661		Prozostrodontia
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q134683	http://www.wikidata.org/entity/Q19159		Reptiliomorpha
+http://www.wikidata.org/entity/Q25241	http://www.wikidata.org/entity/Q3280581	http://www.wikidata.org/entity/Q1153785	Vertebrata
+http://www.wikidata.org/entity/Q48836620	http://www.wikidata.org/entity/Q19088		Orthokaryotes
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q964455	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q48995893		Amorphea
+http://www.wikidata.org/entity/Q3021879	http://www.wikidata.org/entity/Q215760	http://www.wikidata.org/entity/Q164280	Delphininae
+http://www.wikidata.org/entity/Q48995893	http://www.wikidata.org/entity/Q19088		Podiata
+http://www.wikidata.org/entity/Q215760	http://www.wikidata.org/entity/Q1139670	http://www.wikidata.org/entity/Q35409	Delphinidae
+http://www.wikidata.org/entity/Q19159	http://www.wikidata.org/entity/Q7460384	http://www.wikidata.org/entity/Q3504061	Tetrapoda
+http://www.wikidata.org/entity/Q941624	http://www.wikidata.org/entity/Q2497754	http://www.wikidata.org/entity/Q6054535	Tribosphenida
+http://www.wikidata.org/entity/Q24966129	http://www.wikidata.org/entity/Q1131559		Apoikozoa
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q146481	Eukaryota
+http://www.wikidata.org/entity/Q7439311	http://www.wikidata.org/entity/Q27379	http://www.wikidata.org/.well-known/genid/e354c620669c9b17f88f987502637f2c	Scrotifera
+http://www.wikidata.org/entity/Q5414620	http://www.wikidata.org/entity/Q110047432	http://www.wikidata.org/entity/Q7506274	Euungulata
+http://www.wikidata.org/entity/Q149069	http://www.wikidata.org/entity/Q3021879	http://www.wikidata.org/entity/Q34740	Tursiops
+http://www.wikidata.org/entity/Q21219068	http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q2889003	Delphinida
+http://www.wikidata.org/entity/Q2082668	http://www.wikidata.org/entity/Q28746016		Mammaliaformes
+http://www.wikidata.org/entity/Q7377	http://www.wikidata.org/entity/Q2082668	http://www.wikidata.org/entity/Q37517	Mammalia
+http://www.wikidata.org/entity/Q729	http://www.wikidata.org/entity/Q24966129	http://www.wikidata.org/entity/Q36732	Animalia
+http://www.wikidata.org/entity/Q2382443		http://www.wikidata.org/entity/Q22666877	Biota
+http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q19088		Amorphea
+http://www.wikidata.org/entity/Q25329	http://www.wikidata.org/entity/Q68119354	http://www.wikidata.org/entity/Q36602	Artiodactyla
+http://www.wikidata.org/entity/Q120488301	http://www.wikidata.org/entity/Q729		Myriazoa
+http://www.wikidata.org/entity/Q124776186	http://www.wikidata.org/entity/Q124776324		Sphenacomorpha
+http://www.wikidata.org/entity/Q124776324	http://www.wikidata.org/entity/Q124776411		Haptodontiformes
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q19858692	Eukaryota
+http://www.wikidata.org/entity/Q124775759	http://www.wikidata.org/entity/Q930410		Pantherapsida
+http://www.wikidata.org/entity/Q124776411	http://www.wikidata.org/entity/Q1349838		Metopophora
+http://www.wikidata.org/entity/Q1209254	http://www.wikidata.org/entity/Q150598	http://www.wikidata.org/entity/Q5867051	Tetrapodomorpha
+http://www.wikidata.org/entity/Q110047432	http://www.wikidata.org/entity/Q5445608	http://www.wikidata.org/.well-known/genid/00287862b2d135c1056703a1f9befd8a	Pan-Euungulata
+http://www.wikidata.org/entity/Q130942	http://www.wikidata.org/entity/Q2478975	http://www.wikidata.org/entity/Q5867051	Theria
+http://www.wikidata.org/entity/Q130942	http://www.wikidata.org/entity/Q2478975	http://www.wikidata.org/entity/Q6054425	Theria
+http://www.wikidata.org/entity/Q2513125	http://www.wikidata.org/entity/Q26708524	http://www.wikidata.org/entity/Q5867051	Theriiformes
+http://www.wikidata.org/entity/Q132666	http://www.wikidata.org/entity/Q25833	http://www.wikidata.org/entity/Q6054237	Boreoeutheria
+http://www.wikidata.org/entity/Q160830	http://www.wikidata.org/entity/Q1378800	http://www.wikidata.org/entity/Q3504061	Sarcopterygii
+http://www.wikidata.org/entity/Q27207	http://www.wikidata.org/entity/Q3059636	http://www.wikidata.org/entity/Q60922428	Osteichthyes
+http://www.wikidata.org/entity/Q1205110	http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q19858692	Holozoa
+http://www.wikidata.org/entity/Q22087764	http://www.wikidata.org/entity/Q474156		Obazoa
+http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q5173	http://www.wikidata.org/entity/Q2111790	Deuterostomia
+http://www.wikidata.org/entity/Q964455	http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3491996	Unikonta
+http://www.wikidata.org/entity/Q37496661	http://www.wikidata.org/entity/Q160		Pelagiceti
+http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q5173	http://www.wikidata.org/entity/Q3150876	Deuterostomia
+http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q160	http://www.wikidata.org/entity/Q2136103	Odontoceti
+http://www.wikidata.org/entity/Q132812	http://www.wikidata.org/entity/Q322241		Theriodontia
+http://www.wikidata.org/entity/Q189069	http://www.wikidata.org/entity/Q181537		Synapsida
+http://www.wikidata.org/entity/Q17092469	http://www.wikidata.org/entity/Q130942	http://www.wikidata.org/entity/Q713623	Eutheria
+http://www.wikidata.org/entity/Q2910821	http://www.wikidata.org/entity/Q941624	http://www.wikidata.org/entity/Q6054535	Boreosphenida
+http://www.wikidata.org/entity/Q130942	http://www.wikidata.org/entity/Q2910821	http://www.wikidata.org/entity/Q5867051	Theria
+http://www.wikidata.org/entity/Q130942	http://www.wikidata.org/entity/Q2910821	http://www.wikidata.org/entity/Q6054425	Theria
+http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q160	http://www.wikidata.org/entity/Q5867959	Odontoceti
+http://www.wikidata.org/entity/Q134681	http://www.wikidata.org/entity/Q3059636		Teleostomi
+http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q160	http://www.wikidata.org/entity/Q6311258	Odontoceti
+http://www.wikidata.org/entity/Q131801	http://www.wikidata.org/entity/Q5414469		Cynodontia
+http://www.wikidata.org/entity/Q1139670	http://www.wikidata.org/entity/Q21219068	http://www.wikidata.org/entity/Q2136103	Delphinoidea
+http://www.wikidata.org/entity/Q5414469	http://www.wikidata.org/entity/Q132812		Eutheriodontia
+http://www.wikidata.org/entity/Q322241	http://www.wikidata.org/entity/Q5853182		Therapsida
+http://www.wikidata.org/entity/Q27379	http://www.wikidata.org/entity/Q132666	http://www.wikidata.org/entity/Q5868144	Laurasiatheria
+http://www.wikidata.org/entity/Q5445608	http://www.wikidata.org/entity/Q7439311	http://www.wikidata.org/entity/Q6462265	Ferungulata
+http://www.wikidata.org/entity/Q160830	http://www.wikidata.org/entity/Q27207	http://www.wikidata.org/entity/Q3504061	Sarcopterygii
+http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q3059449	http://www.wikidata.org/entity/Q2111790	Deuterostomia
+http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q3059449	http://www.wikidata.org/entity/Q3150876	Deuterostomia
+http://www.wikidata.org/entity/Q5381965	http://www.wikidata.org/entity/Q1209254		Eotetrapodiformes
+http://www.wikidata.org/entity/Q1131559	http://www.wikidata.org/entity/Q1205110		Filozoa
+http://www.wikidata.org/entity/Q23809240	http://www.wikidata.org/entity/Q160830		Dipnotetrapodomorpha
+http://www.wikidata.org/entity/Q1209254	http://www.wikidata.org/entity/Q23809240	http://www.wikidata.org/entity/Q5867051	Tetrapodomorpha
+http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q21075082	http://www.wikidata.org/entity/Q2136103	Odontoceti
+http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q21075082	http://www.wikidata.org/entity/Q5867959	Odontoceti
+http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q21075082	http://www.wikidata.org/entity/Q6311258	Odontoceti
+http://www.wikidata.org/entity/Q174199	http://www.wikidata.org/entity/Q149069	http://www.wikidata.org/entity/Q7432	Tursiops truncatus
+http://www.wikidata.org/entity/Q10915	http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q38348	Chordata
+http://www.wikidata.org/entity/Q1349838	http://www.wikidata.org/entity/Q189069		Eupelycosauria
+http://www.wikidata.org/entity/Q3059636	http://www.wikidata.org/entity/Q26214	http://www.wikidata.org/entity/Q713623	Eugnathostomata
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q22087764	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q1369337	http://www.wikidata.org/entity/Q3428352		Cetruminantia
+http://www.wikidata.org/entity/Q25241	http://www.wikidata.org/entity/Q10915	http://www.wikidata.org/entity/Q1153785	Vertebrata
+http://www.wikidata.org/entity/Q3280581	http://www.wikidata.org/entity/Q10915		Olfactores
+http://www.wikidata.org/entity/Q2478975	http://www.wikidata.org/entity/Q2513125	http://www.wikidata.org/entity/Q2007442	Holotheria
+http://www.wikidata.org/entity/Q26214	http://www.wikidata.org/entity/Q25241	http://www.wikidata.org/entity/Q2361851	Gnathostomata
+http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q2382443	http://www.wikidata.org/entity/Q22666877	Cytota

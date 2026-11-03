@@ -1,0 +1,5 @@
+SELECT ?x ?c
+WHERE {
+    ?x rdf:type ?c .
+    ?c rdf:type ex:Taxon .
+}

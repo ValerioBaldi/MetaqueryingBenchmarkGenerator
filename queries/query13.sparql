@@ -1,0 +1,4 @@
+SELECT ?x
+WHERE {
+    ?x ex:coexistsWith ?x .
+}

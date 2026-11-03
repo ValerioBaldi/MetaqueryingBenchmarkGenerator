@@ -1,0 +1,4 @@
+SELECT ?x ?y
+WHERE {
+    ?x ex:predatorOf ?y .
+}

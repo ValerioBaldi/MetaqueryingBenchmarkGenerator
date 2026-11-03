@@ -1,0 +1,7 @@
+# Runtime dependencies for the benchmark generators.
+# Versions verified with Python 3.13.5 (Linux) on 2026-11-03.
+# tkinter is part of the standard Python installation on Windows;
+# on Ubuntu, install the OS package python3-tk when needed.
+# PyInstaller is only needed to build a Windows executable, not to run the scripts.
+pandas==2.2.3
+rdflib==7.5.0

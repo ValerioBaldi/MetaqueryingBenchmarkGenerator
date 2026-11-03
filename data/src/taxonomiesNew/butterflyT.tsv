@@ -1,0 +1,47 @@
+taxon	parent	rank	name
+http://www.wikidata.org/entity/Q16987281	http://www.wikidata.org/entity/Q48970749	http://www.wikidata.org/entity/Q5868144	Panorpida
+http://www.wikidata.org/entity/Q671280	http://www.wikidata.org/entity/Q1633496		Pancrustacea
+http://www.wikidata.org/entity/Q81196012	http://www.wikidata.org/entity/Q671280		Allotriocarida
+http://www.wikidata.org/entity/Q48836623	http://www.wikidata.org/entity/Q48836620		Neokaryotes
+http://www.wikidata.org/entity/Q23005	http://www.wikidata.org/entity/Q1925093	http://www.wikidata.org/entity/Q2007442	Neoptera
+http://www.wikidata.org/entity/Q48995893	http://www.wikidata.org/entity/Q48836623		Podiata
+http://www.wikidata.org/entity/Q5171	http://www.wikidata.org/entity/Q3059449	http://www.wikidata.org/entity/Q3150876	Protostomia
+http://www.wikidata.org/entity/Q594224	http://www.wikidata.org/entity/Q123504133	http://www.wikidata.org/entity/Q5868144	Amphiesmenoptera
+http://www.wikidata.org/entity/Q5174	http://www.wikidata.org/entity/Q729	http://www.wikidata.org/entity/Q2752679	Eumetazoa
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q28319	http://www.wikidata.org/entity/Q304358	http://www.wikidata.org/entity/Q36602	Lepidoptera
+http://www.wikidata.org/entity/Q28319	http://www.wikidata.org/entity/Q594224	http://www.wikidata.org/entity/Q36602	Lepidoptera
+http://www.wikidata.org/entity/Q48836620	http://www.wikidata.org/entity/Q19088		Orthokaryotes
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q964455	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q48995893		Amorphea
+http://www.wikidata.org/entity/Q48995893	http://www.wikidata.org/entity/Q19088		Podiata
+http://www.wikidata.org/entity/Q594224	http://www.wikidata.org/entity/Q16987281	http://www.wikidata.org/entity/Q5868144	Amphiesmenoptera
+http://www.wikidata.org/entity/Q22708	http://www.wikidata.org/entity/Q123422282	http://www.wikidata.org/entity/Q5867051	Pterygota
+http://www.wikidata.org/entity/Q24966129	http://www.wikidata.org/entity/Q1131559		Apoikozoa
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q146481	Eukaryota
+http://www.wikidata.org/entity/Q16987281	http://www.wikidata.org/entity/Q37140800	http://www.wikidata.org/entity/Q5868144	Panorpida
+http://www.wikidata.org/entity/Q1210274	http://www.wikidata.org/entity/Q1390		Dicondylia
+http://www.wikidata.org/entity/Q729	http://www.wikidata.org/entity/Q24966129	http://www.wikidata.org/entity/Q36732	Animalia
+http://www.wikidata.org/entity/Q28319	http://www.wikidata.org/entity/Q37140800	http://www.wikidata.org/entity/Q36602	Lepidoptera
+http://www.wikidata.org/entity/Q2382443		http://www.wikidata.org/entity/Q22666877	Biota
+http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q19088		Amorphea
+http://www.wikidata.org/entity/Q1360	http://www.wikidata.org/entity/Q5176	http://www.wikidata.org/entity/Q38348	Arthropoda
+http://www.wikidata.org/entity/Q120488301	http://www.wikidata.org/entity/Q729		Myriazoa
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q19858692	Eukaryota
+http://www.wikidata.org/entity/Q594224	http://www.wikidata.org/entity/Q304358	http://www.wikidata.org/entity/Q5868144	Amphiesmenoptera
+http://www.wikidata.org/entity/Q1925093	http://www.wikidata.org/entity/Q22708		Metapterygota
+http://www.wikidata.org/entity/Q1205110	http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q19858692	Holozoa
+http://www.wikidata.org/entity/Q22087764	http://www.wikidata.org/entity/Q474156		Obazoa
+http://www.wikidata.org/entity/Q964455	http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3491996	Unikonta
+http://www.wikidata.org/entity/Q123504133	http://www.wikidata.org/entity/Q48970749	http://www.wikidata.org/entity/Q5868144	Mecopterida
+http://www.wikidata.org/entity/Q594224	http://www.wikidata.org/entity/Q37140800	http://www.wikidata.org/entity/Q5868144	Amphiesmenoptera
+http://www.wikidata.org/entity/Q1131559	http://www.wikidata.org/entity/Q1205110		Filozoa
+http://www.wikidata.org/entity/Q105146	http://www.wikidata.org/entity/Q671280	http://www.wikidata.org/entity/Q1153785	Hexapoda
+http://www.wikidata.org/entity/Q105146	http://www.wikidata.org/entity/Q81196012	http://www.wikidata.org/entity/Q1153785	Hexapoda
+http://www.wikidata.org/entity/Q21075224	http://www.wikidata.org/entity/Q28319	http://www.wikidata.org/entity/Q5867959	Rhopalocera
+http://www.wikidata.org/entity/Q5171	http://www.wikidata.org/entity/Q5173	http://www.wikidata.org/entity/Q3150876	Protostomia
+http://www.wikidata.org/entity/Q22708	http://www.wikidata.org/entity/Q1210274	http://www.wikidata.org/entity/Q5867051	Pterygota
+http://www.wikidata.org/entity/Q1390	http://www.wikidata.org/entity/Q105146	http://www.wikidata.org/entity/Q37517	Insecta
+http://www.wikidata.org/entity/Q5176	http://www.wikidata.org/entity/Q5171	http://www.wikidata.org/entity/Q2111790	Ecdysozoa
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q22087764	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q2382443	http://www.wikidata.org/entity/Q22666877	Cytota

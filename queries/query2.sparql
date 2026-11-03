@@ -1,0 +1,4 @@
+SELECT ?x
+WHERE {
+    ?x rdf:type wd:Q726 .
+}

@@ -1,0 +1,70 @@
+SELECT ?x ?class
+WHERE {
+  ?x wdt:P31 ?class.
+  ?class wdt:P31 wd:Q16521.
+}
+LIMIT 5000
+
+SELECT ?class (count(?x) as ?count)
+WHERE{
+  ?x wdt:P31 ?class.
+  ?class wdt:P31 wd:Q16521
+}
+GROUP BY (?class)
+LIMIT 5000
+
+SELECT ?taxon ?rank ?parent ?superclass
+WHERE { 
+    ?taxon wdt:P31 wd:Q16521 . 
+    ?taxon wdt:P279+ wd:Q729 .  # or wdt:P171+ depending on the wikidata structure
+    OPTIONAL { ?taxon wdt:P105 ?rank . }  
+    OPTIONAL { ?taxon wdt:P171 ?parent . } 
+    OPTIONAL { ?taxon wdt:P279 ? superclass . } 
+} 
+LIMIT 5000
+
+SELECT DISTINCT ?y (count(?x) as ?count)
+WHERE{
+  ?x wdt:P31/wdt:P279*/wdt:P31 wd:Q33027691 .
+  ?x wdt:P31 ?y
+}
+GROUP BY ?y
+
+SELECT DISTINCT ?class ?taxon ?animal
+WHERE{
+  ?animal wdt:P31 ?class.
+  ?class wdt:P13176 ?taxon.
+  ?taxon wdt:P171* wd:Q729
+  FILTER(
+    ?class != wd:Q5  # here I used ?class = wd:Q144 to get all dogs, ...  
+  )
+}
+LIMIT 10000
+
+SELECT ?class (count(?x) as ?count)
+WHERE{
+  ?x wdt:P31 ?class.
+  ?class wdt:P13176 ?taxon.
+  FILTER(?class != wd:Q5).
+}
+GROUP BY (?class)
+LIMIT 5000
+
+
+SELECT DISTINCT ?taxon ?parent ?rank ?name
+WHERE {
+  ?taxon wdt:P31 wd:Q16521.
+  wd:Q3736439 wdt:P13176/wdt:P171* ?taxon.
+  OPTIONAL{
+    ?taxon wdt:P171 ?parent.
+  }
+  OPTIONAL{
+    ?taxon wdt:P105 ?rank.
+  }
+  OPTIONAL{
+    ?taxon wdt:P225 ?name.
+  }
+}
+LIMIT 5000
+
+# remember to modify the horses, now the instances are of horses, but we have the taxonomy of equus ferus caballus

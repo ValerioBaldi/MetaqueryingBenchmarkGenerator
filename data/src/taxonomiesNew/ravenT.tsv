@@ -1,0 +1,103 @@
+taxon	parent	rank	name
+http://www.wikidata.org/entity/Q135105005	http://www.wikidata.org/entity/Q19961898		Parapasseres
+http://www.wikidata.org/entity/Q48836623	http://www.wikidata.org/entity/Q48836620		Neokaryotes
+http://www.wikidata.org/entity/Q19595522	http://www.wikidata.org/entity/Q2254408		Archelosauria
+http://www.wikidata.org/entity/Q48995893	http://www.wikidata.org/entity/Q48836623		Podiata
+http://www.wikidata.org/entity/Q48836620	http://www.wikidata.org/entity/Q19088		Orthokaryotes
+http://www.wikidata.org/entity/Q48995893	http://www.wikidata.org/entity/Q19088		Podiata
+http://www.wikidata.org/entity/Q24966129	http://www.wikidata.org/entity/Q1131559		Apoikozoa
+http://www.wikidata.org/entity/Q120488301	http://www.wikidata.org/entity/Q729		Myriazoa
+http://www.wikidata.org/entity/Q20003762	http://www.wikidata.org/entity/Q25565	http://www.wikidata.org/entity/Q164280	Corvinae
+http://www.wikidata.org/entity/Q52762328	http://www.wikidata.org/entity/Q2043179		Maniraptoromorpha
+http://www.wikidata.org/entity/Q22087764	http://www.wikidata.org/entity/Q474156		Obazoa
+http://www.wikidata.org/entity/Q128863356	http://www.wikidata.org/entity/Q52762328	http://www.wikidata.org/entity/Q713623	Neocoelurosauria
+http://www.wikidata.org/entity/Q15998878	http://www.wikidata.org/entity/Q105593323	http://www.wikidata.org/entity/Q2136103	Corvoidea
+http://www.wikidata.org/entity/Q18389731	http://www.wikidata.org/entity/Q782930		Euavialae
+http://www.wikidata.org/entity/Q23809240	http://www.wikidata.org/entity/Q160830		Dipnotetrapodomorpha
+http://www.wikidata.org/entity/Q19961898	http://www.wikidata.org/entity/Q5856078	http://www.wikidata.org/entity/Q5868144	Passerimorphae
+http://www.wikidata.org/entity/Q2254408	http://www.wikidata.org/entity/Q3497035		Sauria
+http://www.wikidata.org/entity/Q2330918	http://www.wikidata.org/entity/Q19168	http://www.wikidata.org/entity/Q26197587	Neoaves
+http://www.wikidata.org/entity/Q14635103	http://www.wikidata.org/entity/Q20645445		Australavis
+http://www.wikidata.org/entity/Q131092	http://www.wikidata.org/entity/Q138921	http://www.wikidata.org/entity/Q713623	Coelurosauria
+http://www.wikidata.org/entity/Q131793	http://www.wikidata.org/entity/Q134143	http://www.wikidata.org/entity/Q713623	Maniraptora
+http://www.wikidata.org/entity/Q19168	http://www.wikidata.org/entity/Q19163	http://www.wikidata.org/entity/Q2007442	Neognathae
+http://www.wikidata.org/entity/Q5174	http://www.wikidata.org/entity/Q729	http://www.wikidata.org/entity/Q2752679	Eumetazoa
+http://www.wikidata.org/entity/Q5856078	http://www.wikidata.org/entity/Q326483		Psittacopasserae
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q2013709	http://www.wikidata.org/entity/Q186334		Eusaurischia
+http://www.wikidata.org/entity/Q131391	http://www.wikidata.org/entity/Q4828332	http://www.wikidata.org/entity/Q2889003	Tetanurae
+http://www.wikidata.org/entity/Q2043179	http://www.wikidata.org/entity/Q131092		Tyrannoraptora
+http://www.wikidata.org/entity/Q134683	http://www.wikidata.org/entity/Q19159		Reptiliomorpha
+http://www.wikidata.org/entity/Q25241	http://www.wikidata.org/entity/Q3280581	http://www.wikidata.org/entity/Q1153785	Vertebrata
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q964455	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q48995893		Amorphea
+http://www.wikidata.org/entity/Q430	http://www.wikidata.org/entity/Q52798775	http://www.wikidata.org/entity/Q5868144	Dinosauria
+http://www.wikidata.org/entity/Q19159	http://www.wikidata.org/entity/Q7460384	http://www.wikidata.org/entity/Q3504061	Tetrapoda
+http://www.wikidata.org/entity/Q2752642	http://www.wikidata.org/entity/Q135333		Euornithes
+http://www.wikidata.org/entity/Q186334	http://www.wikidata.org/entity/Q430	http://www.wikidata.org/entity/Q36602	Saurischia
+http://www.wikidata.org/entity/Q2200094	http://www.wikidata.org/entity/Q18389731		Avebrevicauda
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q146481	Eukaryota
+http://www.wikidata.org/entity/Q2740164	http://www.wikidata.org/entity/Q616657		Dinosauriformes
+http://www.wikidata.org/entity/Q3239179	http://www.wikidata.org/entity/Q13965050		Ornithurae
+http://www.wikidata.org/entity/Q15998878	http://www.wikidata.org/entity/Q869223	http://www.wikidata.org/entity/Q2136103	Corvoidea
+http://www.wikidata.org/entity/Q729	http://www.wikidata.org/entity/Q24966129	http://www.wikidata.org/entity/Q36732	Animalia
+http://www.wikidata.org/entity/Q2382443		http://www.wikidata.org/entity/Q22666877	Biota
+http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q19088		Amorphea
+http://www.wikidata.org/entity/Q25341	http://www.wikidata.org/entity/Q135105005	http://www.wikidata.org/entity/Q36602	Passeriformes
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q19858692	Eukaryota
+http://www.wikidata.org/entity/Q188438	http://www.wikidata.org/entity/Q186334	http://www.wikidata.org/entity/Q713623	Theropoda
+http://www.wikidata.org/entity/Q3497035	http://www.wikidata.org/entity/Q134688		Neodiapsida
+http://www.wikidata.org/entity/Q25565	http://www.wikidata.org/entity/Q15998878	http://www.wikidata.org/entity/Q35409	Corvidae
+http://www.wikidata.org/entity/Q1209254	http://www.wikidata.org/entity/Q150598	http://www.wikidata.org/entity/Q5867051	Tetrapodomorpha
+http://www.wikidata.org/entity/Q160830	http://www.wikidata.org/entity/Q1378800	http://www.wikidata.org/entity/Q3504061	Sarcopterygii
+http://www.wikidata.org/entity/Q27207	http://www.wikidata.org/entity/Q3059636	http://www.wikidata.org/entity/Q60922428	Osteichthyes
+http://www.wikidata.org/entity/Q1205110	http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q19858692	Holozoa
+http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q5173	http://www.wikidata.org/entity/Q2111790	Deuterostomia
+http://www.wikidata.org/entity/Q964455	http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3491996	Unikonta
+http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q5173	http://www.wikidata.org/entity/Q3150876	Deuterostomia
+http://www.wikidata.org/entity/Q131341	http://www.wikidata.org/entity/Q282487		Crurotarsi
+http://www.wikidata.org/entity/Q133187	http://www.wikidata.org/entity/Q130910		Avemetatarsalia
+http://www.wikidata.org/entity/Q133190	http://www.wikidata.org/entity/Q133187		Ornithodira
+http://www.wikidata.org/entity/Q135333	http://www.wikidata.org/entity/Q135800		Ornithothoraces
+http://www.wikidata.org/entity/Q5113	http://www.wikidata.org/entity/Q3239179	http://www.wikidata.org/entity/Q37517	Aves
+http://www.wikidata.org/entity/Q145206	http://www.wikidata.org/entity/Q188438		Neotheropoda
+http://www.wikidata.org/entity/Q135800	http://www.wikidata.org/entity/Q2200094		Pygostylia
+http://www.wikidata.org/entity/Q134681	http://www.wikidata.org/entity/Q3059636		Teleostomi
+http://www.wikidata.org/entity/Q138921	http://www.wikidata.org/entity/Q4188599		Avetheropoda
+http://www.wikidata.org/entity/Q13965050	http://www.wikidata.org/entity/Q2752642		Ornithuromorpha
+http://www.wikidata.org/entity/Q160830	http://www.wikidata.org/entity/Q27207	http://www.wikidata.org/entity/Q3504061	Sarcopterygii
+http://www.wikidata.org/entity/Q329457	http://www.wikidata.org/entity/Q181537		Sauropsida
+http://www.wikidata.org/entity/Q616657	http://www.wikidata.org/entity/Q133190		Dinosauromorpha
+http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q3059449	http://www.wikidata.org/entity/Q2111790	Deuterostomia
+http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q3059449	http://www.wikidata.org/entity/Q3150876	Deuterostomia
+http://www.wikidata.org/entity/Q5381965	http://www.wikidata.org/entity/Q1209254		Eotetrapodiformes
+http://www.wikidata.org/entity/Q1131559	http://www.wikidata.org/entity/Q1205110		Filozoa
+http://www.wikidata.org/entity/Q1209254	http://www.wikidata.org/entity/Q23809240	http://www.wikidata.org/entity/Q5867051	Tetrapodomorpha
+http://www.wikidata.org/entity/Q4828332	http://www.wikidata.org/entity/Q145206		Averostra
+http://www.wikidata.org/entity/Q4828939	http://www.wikidata.org/entity/Q131793		Pennaraptora
+http://www.wikidata.org/entity/Q188438	http://www.wikidata.org/entity/Q2013709	http://www.wikidata.org/entity/Q713623	Theropoda
+http://www.wikidata.org/entity/Q104864059	http://www.wikidata.org/entity/Q25341	http://www.wikidata.org/entity/Q713623	Eupasseres
+http://www.wikidata.org/entity/Q134143	http://www.wikidata.org/entity/Q128863356	http://www.wikidata.org/entity/Q713623	Maniraptoriformes
+http://www.wikidata.org/entity/Q2330918	http://www.wikidata.org/entity/Q19168	http://www.wikidata.org/entity/Q5868144	Neoaves
+http://www.wikidata.org/entity/Q782930	http://www.wikidata.org/entity/Q136586		Avialae
+http://www.wikidata.org/entity/Q326483	http://www.wikidata.org/entity/Q14635103		Eufalconimorphae
+http://www.wikidata.org/entity/Q3060510	http://www.wikidata.org/entity/Q10811		Eureptilia
+http://www.wikidata.org/entity/Q10915	http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q38348	Chordata
+http://www.wikidata.org/entity/Q194240	http://www.wikidata.org/entity/Q104864059	http://www.wikidata.org/entity/Q5867959	Passeri
+http://www.wikidata.org/entity/Q3059636	http://www.wikidata.org/entity/Q26214	http://www.wikidata.org/entity/Q713623	Eugnathostomata
+http://www.wikidata.org/entity/Q10811	http://www.wikidata.org/entity/Q329457	http://www.wikidata.org/entity/Q37517	Reptilia
+http://www.wikidata.org/entity/Q19163	http://www.wikidata.org/entity/Q5113	http://www.wikidata.org/entity/Q5867051	Neornithes
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q22087764	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q25241	http://www.wikidata.org/entity/Q10915	http://www.wikidata.org/entity/Q1153785	Vertebrata
+http://www.wikidata.org/entity/Q3280581	http://www.wikidata.org/entity/Q10915		Olfactores
+http://www.wikidata.org/entity/Q26214	http://www.wikidata.org/entity/Q25241	http://www.wikidata.org/entity/Q2361851	Gnathostomata
+http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q2382443	http://www.wikidata.org/entity/Q22666877	Cytota
+http://www.wikidata.org/entity/Q894235	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus rhipidurus
+http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q20003762	http://www.wikidata.org/entity/Q34740	Corvus
+http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q25565	http://www.wikidata.org/entity/Q34740	Corvus
+http://www.wikidata.org/entity/Q420818	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus ruficollis
+http://www.wikidata.org/entity/Q997604	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus cryptoleucus
+http://www.wikidata.org/entity/Q1299780	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus tasmanicus
+http://www.wikidata.org/entity/Q1583515	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus mellori
+http://www.wikidata.org/entity/Q1584072	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus coronoides
+http://www.wikidata.org/entity/Q25357	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus corax

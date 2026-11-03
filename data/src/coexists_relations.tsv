@@ -1,0 +1,51 @@
+taxon1	taxon2	taxon1_name	taxon2_name	group
+wd:Q140	wd:Q23907	Panthera leo	Acinonyx jubatus	african_savanna
+wd:Q140	wd:Q15083	Panthera leo	Giraffa camelopardalis	african_savanna
+wd:Q140	wd:Q36557	Panthera leo	Loxodonta africana	african_savanna
+wd:Q140	wd:Q34505	Panthera leo	Hippopotamus amphibius	african_savanna
+wd:Q140	wd:Q95036	Panthera leo	Diceros bicornis	african_savanna
+wd:Q23907	wd:Q15083	Acinonyx jubatus	Giraffa camelopardalis	african_savanna
+wd:Q23907	wd:Q36557	Acinonyx jubatus	Loxodonta africana	african_savanna
+wd:Q23907	wd:Q34505	Acinonyx jubatus	Hippopotamus amphibius	african_savanna
+wd:Q23907	wd:Q95036	Acinonyx jubatus	Diceros bicornis	african_savanna
+wd:Q15083	wd:Q36557	Giraffa camelopardalis	Loxodonta africana	african_savanna
+wd:Q15083	wd:Q34505	Giraffa camelopardalis	Hippopotamus amphibius	african_savanna
+wd:Q15083	wd:Q95036	Giraffa camelopardalis	Diceros bicornis	african_savanna
+wd:Q36557	wd:Q34505	Loxodonta africana	Hippopotamus amphibius	african_savanna
+wd:Q36557	wd:Q95036	Loxodonta africana	Diceros bicornis	african_savanna
+wd:Q34505	wd:Q95036	Hippopotamus amphibius	Diceros bicornis	african_savanna
+wd:Q19939	wd:Q47910	Panthera tigris	Rhinoceros unicornis	south_asia_kaziranga
+wd:Q19939	wd:Q133006	Panthera tigris	Elephas maximus	south_asia_kaziranga
+wd:Q47910	wd:Q133006	Rhinoceros unicornis	Elephas maximus	south_asia_kaziranga
+wd:Q132072	wd:Q40994	Delphinapterus leucas	Odobenus rosmarus	arctic_marine
+wd:Q132072	wd:Q33609	Delphinapterus leucas	Ursus maritimus	arctic_marine
+wd:Q132072	wd:Q26843	Delphinapterus leucas	Orcinus orca	arctic_marine
+wd:Q40994	wd:Q33609	Odobenus rosmarus	Ursus maritimus	arctic_marine
+wd:Q40994	wd:Q26843	Odobenus rosmarus	Orcinus orca	arctic_marine
+wd:Q33609	wd:Q26843	Ursus maritimus	Orcinus orca	arctic_marine
+wd:Q726	wd:Q19610691	Equus ferus caballus	Bos taurus	domestic_farm
+wd:Q726	wd:Q29350771	Equus ferus caballus	Ovis aries	domestic_farm
+wd:Q726	wd:Q45320358	Equus ferus caballus	Capra hircus	domestic_farm
+wd:Q726	wd:Q20717272	Equus ferus caballus	Canis familiaris	domestic_farm
+wd:Q726	wd:Q20980826	Equus ferus caballus	Felis catus	domestic_farm
+wd:Q19610691	wd:Q29350771	Bos taurus	Ovis aries	domestic_farm
+wd:Q19610691	wd:Q45320358	Bos taurus	Capra hircus	domestic_farm
+wd:Q19610691	wd:Q20717272	Bos taurus	Canis familiaris	domestic_farm
+wd:Q19610691	wd:Q20980826	Bos taurus	Felis catus	domestic_farm
+wd:Q29350771	wd:Q45320358	Ovis aries	Capra hircus	domestic_farm
+wd:Q29350771	wd:Q20717272	Ovis aries	Canis familiaris	domestic_farm
+wd:Q29350771	wd:Q20980826	Ovis aries	Felis catus	domestic_farm
+wd:Q45320358	wd:Q20717272	Capra hircus	Canis familiaris	domestic_farm
+wd:Q45320358	wd:Q20980826	Capra hircus	Felis catus	domestic_farm
+wd:Q20717272	wd:Q20980826	Canis familiaris	Felis catus	domestic_farm
+wd:Q18498	wd:Q36341	Canis lupus	Ursus arctos	european_woodland
+wd:Q18498	wd:Q79794	Canis lupus	Cervus elaphus	european_woodland
+wd:Q18498	wd:Q25357	Canis lupus	Corvus corax	european_woodland
+wd:Q36341	wd:Q79794	Ursus arctos	Cervus elaphus	european_woodland
+wd:Q36341	wd:Q25357	Ursus arctos	Corvus corax	european_woodland
+wd:Q79794	wd:Q25357	Cervus elaphus	Corvus corax	european_woodland
+wd:Q737838	wd:Q4126704	Gorilla gorilla	Pan troglodytes	central_african_rainforest
+wd:Q737838	wd:Q220328	Gorilla gorilla	Psittacus erithacus	central_african_rainforest
+wd:Q4126704	wd:Q220328	Pan troglodytes	Psittacus erithacus	central_african_rainforest
+wd:Q25402	wd:Q274179	Cygnus olor	Alopochen aegyptiaca	wetland
+wd:Q146149	wd:Q156944	Fagus sylvatica	Acer pseudoplatanus	european_forest_flora

@@ -1,0 +1,8 @@
+SELECT ?x ?y ?c
+WHERE {
+    ?x rdf:type ?c .
+    ?y rdf:type ?c .
+    ?x ex:predatorOf ?z .
+    ?y ex:predatorOf ?z .
+    ?x owl:differentFrom ?y .
+}

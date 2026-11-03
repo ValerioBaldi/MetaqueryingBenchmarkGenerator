@@ -1,0 +1,4 @@
+SELECT ?c1 ?c2
+WHERE {
+    ?c1 owl:disjointWith ?c2 .
+}

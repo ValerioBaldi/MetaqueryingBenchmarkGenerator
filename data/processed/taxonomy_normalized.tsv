@@ -1,0 +1,621 @@
+taxon	parent	rank	name
+http://www.wikidata.org/entity/Q1000370	http://www.wikidata.org/entity/Q1329304	http://www.wikidata.org/entity/Q36602	Pinales
+http://www.wikidata.org/entity/Q1002374	http://www.wikidata.org/entity/Q103010985	http://www.wikidata.org/entity/Q713623	Carnivoramorpha
+http://www.wikidata.org/entity/Q100242165	http://www.wikidata.org/entity/Q642865		Radiatopses
+http://www.wikidata.org/entity/Q101680	http://www.wikidata.org/entity/Q1000370	http://www.wikidata.org/entity/Q35409	Pinaceae
+http://www.wikidata.org/entity/Q102132044	http://www.wikidata.org/entity/Q33176584	http://www.wikidata.org/entity/Q3965313	Giraffina
+http://www.wikidata.org/entity/Q102470	http://www.wikidata.org/entity/Q206930	http://www.wikidata.org/entity/Q2136103	Hominoidea
+http://www.wikidata.org/entity/Q10262706	http://www.wikidata.org/entity/Q27414	http://www.wikidata.org/entity/Q2889003	Cynoidea
+http://www.wikidata.org/entity/Q10281053	http://www.wikidata.org/entity/Q4687717	http://www.wikidata.org/entity/Q2136103	Feloidea
+http://www.wikidata.org/entity/Q103010985	http://www.wikidata.org/entity/Q20868	http://www.wikidata.org/entity/Q713623	Pan-Carnivora
+http://www.wikidata.org/entity/Q10360330	http://www.wikidata.org/entity/Q34718	http://www.wikidata.org/entity/Q164280	Rhinocerotinae
+http://www.wikidata.org/entity/Q10388280	http://www.wikidata.org/entity/Q3235669	http://www.wikidata.org/entity/Q6311258	Ursida
+http://www.wikidata.org/entity/Q10430796	http://www.wikidata.org/entity/Q25309	http://www.wikidata.org/entity/Q2136103	Blaberoidea
+http://www.wikidata.org/entity/Q104864059	http://www.wikidata.org/entity/Q25341	http://www.wikidata.org/entity/Q713623	Eupasseres
+http://www.wikidata.org/entity/Q105146	http://www.wikidata.org/entity/Q671280	http://www.wikidata.org/entity/Q1153785	Hexapoda
+http://www.wikidata.org/entity/Q105146	http://www.wikidata.org/entity/Q81196012	http://www.wikidata.org/entity/Q1153785	Hexapoda
+http://www.wikidata.org/entity/Q106488638	http://www.wikidata.org/entity/Q1002374	http://www.wikidata.org/entity/Q713623	Carnivoraformes
+http://www.wikidata.org/entity/Q10741687	http://www.wikidata.org/entity/Q25900	http://www.wikidata.org/entity/Q34740	Bunolagus
+http://www.wikidata.org/entity/Q1074819	http://www.wikidata.org/entity/Q8327	http://www.wikidata.org/entity/Q164280	Psittacinae
+http://www.wikidata.org/entity/Q107588	http://www.wikidata.org/entity/Q242047	http://www.wikidata.org/entity/Q227936	Hominini
+http://www.wikidata.org/entity/Q10788836	http://www.wikidata.org/entity/Q1241896	http://www.wikidata.org/entity/Q37517	Ginkgoopsida
+http://www.wikidata.org/entity/Q10803279	http://www.wikidata.org/entity/Q25900	http://www.wikidata.org/entity/Q34740	Oryctolagus
+http://www.wikidata.org/entity/Q10804633	http://www.wikidata.org/entity/Q25900	http://www.wikidata.org/entity/Q34740	Pentalagus
+http://www.wikidata.org/entity/Q10808047	http://www.wikidata.org/entity/Q25900	http://www.wikidata.org/entity/Q34740	Poelagus
+http://www.wikidata.org/entity/Q10809423	http://www.wikidata.org/entity/Q1074819	http://www.wikidata.org/entity/Q34740	Psittacus
+http://www.wikidata.org/entity/Q10811	http://www.wikidata.org/entity/Q329457	http://www.wikidata.org/entity/Q37517	Reptilia
+http://www.wikidata.org/entity/Q10811874	http://www.wikidata.org/entity/Q25900	http://www.wikidata.org/entity/Q34740	Romerolagus
+http://www.wikidata.org/entity/Q10821959	http://www.wikidata.org/entity/Q788544	http://www.wikidata.org/entity/Q34740	Strigops
+http://www.wikidata.org/entity/Q10856	http://www.wikidata.org/entity/Q28078	http://www.wikidata.org/entity/Q35409	Columbidae
+http://www.wikidata.org/entity/Q10915	http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q38348	Chordata
+http://www.wikidata.org/entity/Q110047432	http://www.wikidata.org/entity/Q5445608	http://www.wikidata.org/.well-known/genid/00287862b2d135c1056703a1f9befd8a	Pan-Euungulata
+http://www.wikidata.org/entity/Q110265920	http://www.wikidata.org/entity/Q7993757	http://www.wikidata.org/entity/Q2889003	Ancodonta
+http://www.wikidata.org/entity/Q111752876	http://www.wikidata.org/entity/Q119822370	http://www.wikidata.org/entity/Q5868144	Pelecanimorphae
+http://www.wikidata.org/entity/Q111752876	http://www.wikidata.org/entity/Q43657	http://www.wikidata.org/entity/Q5868144	Pelecanimorphae
+http://www.wikidata.org/entity/Q1131559	http://www.wikidata.org/entity/Q1205110		Filozoa
+http://www.wikidata.org/entity/Q1139670	http://www.wikidata.org/entity/Q21219068	http://www.wikidata.org/entity/Q2136103	Delphinoidea
+http://www.wikidata.org/entity/Q115223	http://www.wikidata.org/entity/Q21010688	http://www.wikidata.org/entity/Q35409	Nocticolidae
+http://www.wikidata.org/entity/Q11788	http://www.wikidata.org/entity/Q14943214	http://www.wikidata.org/entity/Q35409	Ursidae
+http://www.wikidata.org/entity/Q11931934	http://www.wikidata.org/entity/Q100242165		Lignophyta
+http://www.wikidata.org/entity/Q11973077	http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q2752679	Viridiplantae
+http://www.wikidata.org/entity/Q12004	http://www.wikidata.org/entity/Q145977	http://www.wikidata.org/entity/Q34740	Quercus
+http://www.wikidata.org/entity/Q12024	http://www.wikidata.org/entity/Q9339721	http://www.wikidata.org/entity/Q34740	Pinus
+http://www.wikidata.org/entity/Q120488301	http://www.wikidata.org/entity/Q729		Myriazoa
+http://www.wikidata.org/entity/Q1205110	http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q19858692	Holozoa
+http://www.wikidata.org/entity/Q1209254	http://www.wikidata.org/entity/Q150598	http://www.wikidata.org/entity/Q5867051	Tetrapodomorpha
+http://www.wikidata.org/entity/Q1209254	http://www.wikidata.org/entity/Q23809240	http://www.wikidata.org/entity/Q5867051	Tetrapodomorpha
+http://www.wikidata.org/entity/Q1210274	http://www.wikidata.org/entity/Q1390		Dicondylia
+http://www.wikidata.org/entity/Q1211307	http://www.wikidata.org/entity/Q5171	http://www.wikidata.org/entity/Q2111790	Spiralia
+http://www.wikidata.org/entity/Q122422	http://www.wikidata.org/entity/Q728299	http://www.wikidata.org/entity/Q36602	Squamata
+http://www.wikidata.org/entity/Q122431	http://www.wikidata.org/entity/Q23390	http://www.wikidata.org/entity/Q164280	Cervinae
+http://www.wikidata.org/entity/Q123504133	http://www.wikidata.org/entity/Q48970749	http://www.wikidata.org/entity/Q5868144	Mecopterida
+http://www.wikidata.org/entity/Q123509500	http://www.wikidata.org/entity/Q27399		Paenungulatomorpha
+http://www.wikidata.org/entity/Q12404854	http://www.wikidata.org/entity/Q178228	http://www.wikidata.org/entity/Q68947	Capra aegagrus hircus
+http://www.wikidata.org/entity/Q1241896	http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q334460	Ginkgophyta
+http://www.wikidata.org/entity/Q1241896	http://www.wikidata.org/entity/Q56639776	http://www.wikidata.org/entity/Q334460	Ginkgophyta
+http://www.wikidata.org/entity/Q124488452	http://www.wikidata.org/entity/Q338878		Eurosids
+http://www.wikidata.org/entity/Q124775759	http://www.wikidata.org/entity/Q930410		Pantherapsida
+http://www.wikidata.org/entity/Q124776186	http://www.wikidata.org/entity/Q124776324		Sphenacomorpha
+http://www.wikidata.org/entity/Q124776324	http://www.wikidata.org/entity/Q124776411		Haptodontiformes
+http://www.wikidata.org/entity/Q124776411	http://www.wikidata.org/entity/Q1349838		Metopophora
+http://www.wikidata.org/entity/Q1249634	http://www.wikidata.org/entity/Q2704723	http://www.wikidata.org/entity/Q7432	Pecten maximus
+http://www.wikidata.org/entity/Q125762626	http://www.wikidata.org/entity/Q5414620		Panperissodactyla
+http://www.wikidata.org/entity/Q125762739	http://www.wikidata.org/entity/Q125762626		Perissodactylamorpha
+http://www.wikidata.org/entity/Q127282	http://www.wikidata.org/entity/Q27207	http://www.wikidata.org/entity/Q3504061	Actinopterygii
+http://www.wikidata.org/entity/Q12765692	http://www.wikidata.org/entity/Q19597226	http://www.wikidata.org/entity/Q36602	Phaethontiformes
+http://www.wikidata.org/entity/Q127700062	http://www.wikidata.org/entity/Q4589415		Cam
+http://www.wikidata.org/entity/Q127849	http://www.wikidata.org/entity/Q156551	http://www.wikidata.org/entity/Q34740	Tilia
+http://www.wikidata.org/entity/Q127849	http://www.wikidata.org/entity/Q159224	http://www.wikidata.org/entity/Q34740	Tilia
+http://www.wikidata.org/entity/Q127960	http://www.wikidata.org/entity/Q230177	http://www.wikidata.org/entity/Q34740	Panthera
+http://www.wikidata.org/entity/Q128863356	http://www.wikidata.org/entity/Q52762328	http://www.wikidata.org/entity/Q713623	Neocoelurosauria
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q22087764	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q964455	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q1299780	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus tasmanicus
+http://www.wikidata.org/entity/Q130942	http://www.wikidata.org/entity/Q2478975	http://www.wikidata.org/entity/Q5867051	Theria
+http://www.wikidata.org/entity/Q130942	http://www.wikidata.org/entity/Q2478975	http://www.wikidata.org/entity/Q6054425	Theria
+http://www.wikidata.org/entity/Q130942	http://www.wikidata.org/entity/Q2910821	http://www.wikidata.org/entity/Q5867051	Theria
+http://www.wikidata.org/entity/Q130942	http://www.wikidata.org/entity/Q2910821	http://www.wikidata.org/entity/Q6054425	Theria
+http://www.wikidata.org/entity/Q131092	http://www.wikidata.org/entity/Q138921	http://www.wikidata.org/entity/Q713623	Coelurosauria
+http://www.wikidata.org/entity/Q1311395	http://www.wikidata.org/entity/Q7158891	http://www.wikidata.org/entity/Q35409	Pectinidae
+http://www.wikidata.org/entity/Q131341	http://www.wikidata.org/entity/Q282487		Crurotarsi
+http://www.wikidata.org/entity/Q131391	http://www.wikidata.org/entity/Q4828332	http://www.wikidata.org/entity/Q2889003	Tetanurae
+http://www.wikidata.org/entity/Q131403	http://www.wikidata.org/entity/Q20992205	http://www.wikidata.org/entity/Q2007442	Pteriomorphia
+http://www.wikidata.org/entity/Q131446239	http://www.wikidata.org/entity/Q111752876		Pelecanes
+http://www.wikidata.org/entity/Q131587431	http://www.wikidata.org/entity/Q2474088	http://www.wikidata.org/entity/Q227936	Urocyonini
+http://www.wikidata.org/entity/Q131793	http://www.wikidata.org/entity/Q134143	http://www.wikidata.org/entity/Q713623	Maniraptora
+http://www.wikidata.org/entity/Q131801	http://www.wikidata.org/entity/Q5414469		Cynodontia
+http://www.wikidata.org/entity/Q131950	http://www.wikidata.org/entity/Q123509500		Paenungulata
+http://www.wikidata.org/entity/Q132072	http://www.wikidata.org/entity/Q16628343	http://www.wikidata.org/entity/Q7432	Delphinapterus leucas
+http://www.wikidata.org/entity/Q132666	http://www.wikidata.org/entity/Q25833	http://www.wikidata.org/entity/Q6054237	Boreoeutheria
+http://www.wikidata.org/entity/Q132687	http://www.wikidata.org/entity/Q25324	http://www.wikidata.org/entity/Q34740	Lycalopex
+http://www.wikidata.org/entity/Q132812	http://www.wikidata.org/entity/Q322241		Theriodontia
+http://www.wikidata.org/entity/Q132825	http://www.wikidata.org/entity/Q98522415	http://www.wikidata.org/entity/Q334460	Pinophyta
+http://www.wikidata.org/entity/Q1329304	http://www.wikidata.org/entity/Q132825	http://www.wikidata.org/entity/Q37517	Pinopsida
+http://www.wikidata.org/entity/Q133006	http://www.wikidata.org/entity/Q310746	http://www.wikidata.org/entity/Q7432	Elephas maximus
+http://www.wikidata.org/entity/Q133128	http://www.wikidata.org/entity/Q14965389	http://www.wikidata.org/entity/Q7432	Pinus sylvestris
+http://www.wikidata.org/entity/Q133187	http://www.wikidata.org/entity/Q130910		Avemetatarsalia
+http://www.wikidata.org/entity/Q133190	http://www.wikidata.org/entity/Q133187		Ornithodira
+http://www.wikidata.org/entity/Q133527	http://www.wikidata.org/entity/Q11973077	http://www.wikidata.org/entity/Q3150876	Streptophyta
+http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q1425109	http://www.wikidata.org/entity/Q334460	Gymnospermae
+http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q1425109	http://www.wikidata.org/entity/Q3504061	Gymnospermae
+http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q14899727	http://www.wikidata.org/entity/Q334460	Gymnospermae
+http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q14899727	http://www.wikidata.org/entity/Q3504061	Gymnospermae
+http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q334460	Gymnospermae
+http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q3504061	Gymnospermae
+http://www.wikidata.org/entity/Q13410384	http://www.wikidata.org/entity/Q19078	http://www.wikidata.org/entity/Q35409	Pontoporiidae
+http://www.wikidata.org/entity/Q134143	http://www.wikidata.org/entity/Q128863356	http://www.wikidata.org/entity/Q713623	Maniraptoriformes
+http://www.wikidata.org/entity/Q134657	http://www.wikidata.org/entity/Q19386542	http://www.wikidata.org/entity/Q34740	Rhinoceros
+http://www.wikidata.org/entity/Q134657	http://www.wikidata.org/entity/Q34718	http://www.wikidata.org/entity/Q34740	Rhinoceros
+http://www.wikidata.org/entity/Q134665	http://www.wikidata.org/entity/Q2254408	http://www.wikidata.org/entity/Q2007442	Lepidosauromorpha
+http://www.wikidata.org/entity/Q134677	http://www.wikidata.org/entity/Q3055913	http://www.wikidata.org/entity/Q37517	Equisetopsida
+http://www.wikidata.org/entity/Q134681	http://www.wikidata.org/entity/Q3059636		Teleostomi
+http://www.wikidata.org/entity/Q134683	http://www.wikidata.org/entity/Q19159		Reptiliomorpha
+http://www.wikidata.org/entity/Q1349838	http://www.wikidata.org/entity/Q189069		Eupelycosauria
+http://www.wikidata.org/entity/Q13508009	http://www.wikidata.org/entity/Q620938	http://www.wikidata.org/entity/Q227936	Cygnini
+http://www.wikidata.org/entity/Q135105005	http://www.wikidata.org/entity/Q19961898		Parapasseres
+http://www.wikidata.org/entity/Q13518421	http://www.wikidata.org/entity/Q122422		Episquamata
+http://www.wikidata.org/entity/Q135333	http://www.wikidata.org/entity/Q135800		Ornithothoraces
+http://www.wikidata.org/entity/Q135424	http://www.wikidata.org/entity/Q728566	http://www.wikidata.org/entity/Q7506274	Primatomorpha
+http://www.wikidata.org/entity/Q135447	http://www.wikidata.org/entity/Q10856	http://www.wikidata.org/entity/Q164280	Columbinae
+http://www.wikidata.org/entity/Q135800	http://www.wikidata.org/entity/Q2200094		Pygostylia
+http://www.wikidata.org/entity/Q1360	http://www.wikidata.org/entity/Q5176	http://www.wikidata.org/entity/Q38348	Arthropoda
+http://www.wikidata.org/entity/Q13624220	http://www.wikidata.org/entity/Q31431	http://www.wikidata.org/entity/Q2136103	Psittacoidea
+http://www.wikidata.org/entity/Q1369337	http://www.wikidata.org/entity/Q3428352		Cetruminantia
+http://www.wikidata.org/entity/Q13883248	http://www.wikidata.org/entity/Q7556	http://www.wikidata.org/entity/Q34740	Neochen
+http://www.wikidata.org/entity/Q138921	http://www.wikidata.org/entity/Q4188599		Avetheropoda
+http://www.wikidata.org/entity/Q1390	http://www.wikidata.org/entity/Q105146	http://www.wikidata.org/entity/Q37517	Insecta
+http://www.wikidata.org/entity/Q13965050	http://www.wikidata.org/entity/Q2752642		Ornithuromorpha
+http://www.wikidata.org/entity/Q139689	http://www.wikidata.org/entity/Q21069184	http://www.wikidata.org/entity/Q35409	Blattidae
+http://www.wikidata.org/entity/Q140	http://www.wikidata.org/entity/Q127960	http://www.wikidata.org/entity/Q7432	Panthera leo
+http://www.wikidata.org/entity/Q140733	http://www.wikidata.org/entity/Q16992293	http://www.wikidata.org/entity/Q227936	Robinieae
+http://www.wikidata.org/entity/Q140733	http://www.wikidata.org/entity/Q316856	http://www.wikidata.org/entity/Q227936	Robinieae
+http://www.wikidata.org/entity/Q14122369	http://www.wikidata.org/entity/Q7556	http://www.wikidata.org/entity/Q34740	Plectropterus
+http://www.wikidata.org/entity/Q141527	http://www.wikidata.org/entity/Q4867740	http://www.wikidata.org/entity/Q5867051	Vetigastropoda
+http://www.wikidata.org/entity/Q1425109	http://www.wikidata.org/entity/Q2997417	http://www.wikidata.org/entity/Q334460	Anthophyta
+http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q160	http://www.wikidata.org/entity/Q2136103	Odontoceti
+http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q160	http://www.wikidata.org/entity/Q5867959	Odontoceti
+http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q160	http://www.wikidata.org/entity/Q6311258	Odontoceti
+http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q21075082	http://www.wikidata.org/entity/Q2136103	Odontoceti
+http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q21075082	http://www.wikidata.org/entity/Q5867959	Odontoceti
+http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q21075082	http://www.wikidata.org/entity/Q6311258	Odontoceti
+http://www.wikidata.org/entity/Q144218	http://www.wikidata.org/entity/Q14786632	http://www.wikidata.org/entity/Q7432	Coscoroba coscoroba
+http://www.wikidata.org/entity/Q14441345	http://www.wikidata.org/entity/Q21651	http://www.wikidata.org/entity/Q5867959	Anseres
+http://www.wikidata.org/entity/Q145206	http://www.wikidata.org/entity/Q188438		Neotheropoda
+http://www.wikidata.org/entity/Q145977	http://www.wikidata.org/entity/Q21881	http://www.wikidata.org/entity/Q35409	Fagaceae
+http://www.wikidata.org/entity/Q145992	http://www.wikidata.org/entity/Q26782	http://www.wikidata.org/entity/Q7432	Picea abies
+http://www.wikidata.org/entity/Q146037	http://www.wikidata.org/entity/Q1000370	http://www.wikidata.org/entity/Q35409	Cupressaceae
+http://www.wikidata.org/entity/Q146037	http://www.wikidata.org/entity/Q5794838	http://www.wikidata.org/entity/Q35409	Cupressaceae
+http://www.wikidata.org/entity/Q146037	http://www.wikidata.org/entity/Q9849989	http://www.wikidata.org/entity/Q35409	Cupressaceae
+http://www.wikidata.org/entity/Q146149	http://www.wikidata.org/entity/Q25403	http://www.wikidata.org/entity/Q7432	Fagus sylvatica
+http://www.wikidata.org/entity/Q14635103	http://www.wikidata.org/entity/Q20645445		Australavis
+http://www.wikidata.org/entity/Q147064	http://www.wikidata.org/entity/Q25356	http://www.wikidata.org/entity/Q7432	Populus nigra
+http://www.wikidata.org/entity/Q14707792	http://www.wikidata.org/entity/Q146037	http://www.wikidata.org/entity/Q34740	Sequoiadendron
+http://www.wikidata.org/entity/Q14707792	http://www.wikidata.org/entity/Q149335	http://www.wikidata.org/entity/Q34740	Sequoiadendron
+http://www.wikidata.org/entity/Q14899727	http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q334460	Embryophyta siphonogama
+http://www.wikidata.org/entity/Q149069	http://www.wikidata.org/entity/Q3021879	http://www.wikidata.org/entity/Q34740	Tursiops
+http://www.wikidata.org/entity/Q14920699	http://www.wikidata.org/entity/Q145977	http://www.wikidata.org/entity/Q164280	Fagoideae
+http://www.wikidata.org/entity/Q14920716	http://www.wikidata.org/entity/Q101680	http://www.wikidata.org/entity/Q164280	Piceoideae
+http://www.wikidata.org/entity/Q149335	http://www.wikidata.org/entity/Q146037	http://www.wikidata.org/entity/Q164280	Sequoioideae
+http://www.wikidata.org/entity/Q14943214	http://www.wikidata.org/entity/Q10388280	http://www.wikidata.org/entity/Q2136103	Ursoidea
+http://www.wikidata.org/entity/Q149461	http://www.wikidata.org/entity/Q843349	http://www.wikidata.org/entity/Q34740	Ginkgo
+http://www.wikidata.org/entity/Q14957261	http://www.wikidata.org/entity/Q12024	http://www.wikidata.org/entity/Q3238261	Pinus subg. Pinus
+http://www.wikidata.org/entity/Q14965389	http://www.wikidata.org/entity/Q14957261	http://www.wikidata.org/entity/Q3181348	Pinus sect. Pinus
+http://www.wikidata.org/entity/Q149851	http://www.wikidata.org/entity/Q14707792	http://www.wikidata.org/entity/Q7432	Sequoiadendron giganteum
+http://www.wikidata.org/entity/Q149892	http://www.wikidata.org/entity/Q33229472	http://www.wikidata.org/entity/Q34740	Canis
+http://www.wikidata.org/entity/Q150129	http://www.wikidata.org/entity/Q1975652	http://www.wikidata.org/entity/Q7432	Sequoia sempervirens
+http://www.wikidata.org/entity/Q15083	http://www.wikidata.org/entity/Q862089	http://www.wikidata.org/entity/Q123575881	Giraffa camelopardalis
+http://www.wikidata.org/entity/Q15083	http://www.wikidata.org/entity/Q862089	http://www.wikidata.org/entity/Q7432	Giraffa camelopardalis
+http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q3059449	http://www.wikidata.org/entity/Q2111790	Deuterostomia
+http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q3059449	http://www.wikidata.org/entity/Q3150876	Deuterostomia
+http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q5173	http://www.wikidata.org/entity/Q2111790	Deuterostomia
+http://www.wikidata.org/entity/Q150866	http://www.wikidata.org/entity/Q5173	http://www.wikidata.org/entity/Q3150876	Deuterostomia
+http://www.wikidata.org/entity/Q15487229	http://www.wikidata.org/entity/Q2557546	http://www.wikidata.org/entity/Q2136103	Rhinocerotoidea
+http://www.wikidata.org/entity/Q155966	http://www.wikidata.org/entity/Q21742	http://www.wikidata.org/entity/Q35409	Oleaceae
+http://www.wikidata.org/entity/Q156551	http://www.wikidata.org/entity/Q21908	http://www.wikidata.org/entity/Q35409	Malvaceae
+http://www.wikidata.org/entity/Q156831	http://www.wikidata.org/entity/Q127849	http://www.wikidata.org/entity/Q7432	Tilia platyphyllos
+http://www.wikidata.org/entity/Q156944	http://www.wikidata.org/entity/Q42292	http://www.wikidata.org/entity/Q7432	Acer pseudoplatanus
+http://www.wikidata.org/entity/Q157417	http://www.wikidata.org/entity/Q472943	http://www.wikidata.org/entity/Q7432	Robinia pseudoacacia
+http://www.wikidata.org/entity/Q1583515	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus mellori
+http://www.wikidata.org/entity/Q1584072	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus coronoides
+http://www.wikidata.org/entity/Q158487	http://www.wikidata.org/entity/Q21887	http://www.wikidata.org/entity/Q35409	Salicaceae
+http://www.wikidata.org/entity/Q158608	http://www.wikidata.org/entity/Q12004	http://www.wikidata.org/entity/Q7432	Quercus petraea
+http://www.wikidata.org/entity/Q15873814	http://www.wikidata.org/entity/Q7556	http://www.wikidata.org/entity/Q34740	Cereopsis
+http://www.wikidata.org/entity/Q158746	http://www.wikidata.org/entity/Q127849	http://www.wikidata.org/entity/Q7432	Tilia cordata
+http://www.wikidata.org/entity/Q159224	http://www.wikidata.org/entity/Q156551	http://www.wikidata.org/entity/Q164280	Tilioideae
+http://www.wikidata.org/entity/Q15998878	http://www.wikidata.org/entity/Q105593323	http://www.wikidata.org/entity/Q2136103	Corvoidea
+http://www.wikidata.org/entity/Q15998878	http://www.wikidata.org/entity/Q869223	http://www.wikidata.org/entity/Q2136103	Corvoidea
+http://www.wikidata.org/entity/Q160	http://www.wikidata.org/entity/Q24031895	http://www.wikidata.org/entity/Q2889003	Cetacea
+http://www.wikidata.org/entity/Q160830	http://www.wikidata.org/entity/Q1378800	http://www.wikidata.org/entity/Q3504061	Sarcopterygii
+http://www.wikidata.org/entity/Q160830	http://www.wikidata.org/entity/Q27207	http://www.wikidata.org/entity/Q3504061	Sarcopterygii
+http://www.wikidata.org/entity/Q161095	http://www.wikidata.org/entity/Q25241	http://www.wikidata.org/entity/Q2361851	Agnatha
+http://www.wikidata.org/entity/Q161105	http://www.wikidata.org/entity/Q163025	http://www.wikidata.org/entity/Q7432	Platanus orientalis
+http://www.wikidata.org/entity/Q16124376	http://www.wikidata.org/entity/Q14441345	http://www.wikidata.org/entity/Q2136103	Anatoidea
+http://www.wikidata.org/entity/Q163025	http://www.wikidata.org/entity/Q171425	http://www.wikidata.org/entity/Q34740	Platanus
+http://www.wikidata.org/entity/Q163489	http://www.wikidata.org/entity/Q27147	http://www.wikidata.org/entity/Q164280	Hippocastanoideae
+http://www.wikidata.org/entity/Q165115	http://www.wikidata.org/entity/Q21445554	http://www.wikidata.org/entity/Q35409	Equidae
+http://www.wikidata.org/entity/Q165115	http://www.wikidata.org/entity/Q2292292	http://www.wikidata.org/entity/Q35409	Equidae
+http://www.wikidata.org/entity/Q165145	http://www.wikidata.org/entity/Q12004	http://www.wikidata.org/entity/Q7432	Quercus robur
+http://www.wikidata.org/entity/Q16533792	http://www.wikidata.org/entity/Q192205	http://www.wikidata.org/entity/Q3965313	Bovina
+http://www.wikidata.org/entity/Q16688742	http://www.wikidata.org/entity/Q1311395	http://www.wikidata.org/entity/Q164280	Pectininae
+http://www.wikidata.org/entity/Q168366	http://www.wikidata.org/entity/Q160	http://www.wikidata.org/entity/Q5867959	Mysticeti
+http://www.wikidata.org/entity/Q168366	http://www.wikidata.org/entity/Q160	http://www.wikidata.org/entity/Q6311258	Mysticeti
+http://www.wikidata.org/entity/Q168366	http://www.wikidata.org/entity/Q21075082	http://www.wikidata.org/entity/Q5867959	Mysticeti
+http://www.wikidata.org/entity/Q168366	http://www.wikidata.org/entity/Q21075082	http://www.wikidata.org/entity/Q6311258	Mysticeti
+http://www.wikidata.org/entity/Q16984225	http://www.wikidata.org/entity/Q21069184	http://www.wikidata.org/entity/Q35409	Lamproblattidae
+http://www.wikidata.org/entity/Q16986600	http://www.wikidata.org/entity/Q28432236	http://www.wikidata.org/entity/Q713623	Non-protein amino acid-accumulating clade
+http://www.wikidata.org/entity/Q16986904	http://www.wikidata.org/entity/Q1519264		Ophidia
+http://www.wikidata.org/entity/Q16987281	http://www.wikidata.org/entity/Q37140800	http://www.wikidata.org/entity/Q5868144	Panorpida
+http://www.wikidata.org/entity/Q16987281	http://www.wikidata.org/entity/Q48970749	http://www.wikidata.org/entity/Q5868144	Panorpida
+http://www.wikidata.org/entity/Q17092469	http://www.wikidata.org/entity/Q130942	http://www.wikidata.org/entity/Q713623	Eutheria
+http://www.wikidata.org/entity/Q171425	http://www.wikidata.org/entity/Q21838	http://www.wikidata.org/entity/Q35409	Platanaceae
+http://www.wikidata.org/entity/Q172923	http://www.wikidata.org/entity/Q19806047	http://www.wikidata.org/entity/Q34740	Capra
+http://www.wikidata.org/entity/Q17395041	http://www.wikidata.org/entity/Q25374		Tapiromorpha
+http://www.wikidata.org/entity/Q174199	http://www.wikidata.org/entity/Q149069	http://www.wikidata.org/entity/Q7432	Tursiops truncatus
+http://www.wikidata.org/entity/Q17560554	http://www.wikidata.org/entity/Q11788	http://www.wikidata.org/entity/Q164280	Ailuropodinae
+http://www.wikidata.org/entity/Q1757231	http://www.wikidata.org/entity/Q2704723	http://www.wikidata.org/entity/Q7432	Pecten jacobaeus
+http://www.wikidata.org/entity/Q1757612	http://www.wikidata.org/entity/Q215760	http://www.wikidata.org/entity/Q164280	Orcininae
+http://www.wikidata.org/entity/Q17766430	http://www.wikidata.org/entity/Q10360330	http://www.wikidata.org/entity/Q227936	Dicerotini
+http://www.wikidata.org/entity/Q178228	http://www.wikidata.org/entity/Q172923	http://www.wikidata.org/entity/Q7432	Capra aegagrus
+http://www.wikidata.org/entity/Q179729	http://www.wikidata.org/entity/Q27355	http://www.wikidata.org/entity/Q7432	Taxus baccata
+http://www.wikidata.org/entity/Q179959	http://www.wikidata.org/entity/Q10821959	http://www.wikidata.org/entity/Q7432	Strigops habroptila
+http://www.wikidata.org/entity/Q182968	http://www.wikidata.org/entity/Q3665073	http://www.wikidata.org/entity/Q35409	Cercopithecidae
+http://www.wikidata.org/entity/Q183361	http://www.wikidata.org/entity/Q82562	http://www.wikidata.org/entity/Q34740	Anser
+http://www.wikidata.org/entity/Q18389731	http://www.wikidata.org/entity/Q782930		Euavialae
+http://www.wikidata.org/entity/Q18498	http://www.wikidata.org/entity/Q149892	http://www.wikidata.org/entity/Q7432	Canis lupus
+http://www.wikidata.org/entity/Q185038	http://www.wikidata.org/entity/Q2372824	http://www.wikidata.org/entity/Q34740	Loxodonta
+http://www.wikidata.org/entity/Q185038	http://www.wikidata.org/entity/Q33176649	http://www.wikidata.org/entity/Q34740	Loxodonta
+http://www.wikidata.org/entity/Q18511101	http://www.wikidata.org/entity/Q17766430	http://www.wikidata.org/entity/Q34740	Diceros
+http://www.wikidata.org/entity/Q18511101	http://www.wikidata.org/entity/Q34718	http://www.wikidata.org/entity/Q34740	Diceros
+http://www.wikidata.org/entity/Q185194	http://www.wikidata.org/entity/Q25324	http://www.wikidata.org/entity/Q34740	Vulpes
+http://www.wikidata.org/entity/Q185194	http://www.wikidata.org/entity/Q30223	http://www.wikidata.org/entity/Q34740	Vulpes
+http://www.wikidata.org/entity/Q18579837	http://www.wikidata.org/entity/Q31431	http://www.wikidata.org/entity/Q2136103	Strigopoidea
+http://www.wikidata.org/entity/Q186154	http://www.wikidata.org/entity/Q903239	http://www.wikidata.org/entity/Q35409	Giraffidae
+http://www.wikidata.org/entity/Q186334	http://www.wikidata.org/entity/Q430	http://www.wikidata.org/entity/Q36602	Saurischia
+http://www.wikidata.org/entity/Q188438	http://www.wikidata.org/entity/Q186334	http://www.wikidata.org/entity/Q713623	Theropoda
+http://www.wikidata.org/entity/Q188438	http://www.wikidata.org/entity/Q2013709	http://www.wikidata.org/entity/Q713623	Theropoda
+http://www.wikidata.org/entity/Q188957	http://www.wikidata.org/entity/Q149892	http://www.wikidata.org/entity/Q7432	Canis simensis
+http://www.wikidata.org/entity/Q189069	http://www.wikidata.org/entity/Q181537		Synapsida
+http://www.wikidata.org/entity/Q189804	http://www.wikidata.org/entity/Q25497	http://www.wikidata.org/entity/Q164280	Caprinae
+http://www.wikidata.org/entity/Q19078	http://www.wikidata.org/entity/Q21219068	http://www.wikidata.org/entity/Q2136103	Inioidea
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q146481	Eukaryota
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q19858692	Eukaryota
+http://www.wikidata.org/entity/Q19159	http://www.wikidata.org/entity/Q7460384	http://www.wikidata.org/entity/Q3504061	Tetrapoda
+http://www.wikidata.org/entity/Q19163	http://www.wikidata.org/entity/Q5113	http://www.wikidata.org/entity/Q5867051	Neornithes
+http://www.wikidata.org/entity/Q19168	http://www.wikidata.org/entity/Q19163	http://www.wikidata.org/entity/Q2007442	Neognathae
+http://www.wikidata.org/entity/Q192154	http://www.wikidata.org/entity/Q133527	http://www.wikidata.org/entity/Q23760204	Embryophytes
+http://www.wikidata.org/entity/Q192164	http://www.wikidata.org/entity/Q45845169	http://www.wikidata.org/entity/Q5867959	Ruminantia
+http://www.wikidata.org/entity/Q192205	http://www.wikidata.org/entity/Q4979192	http://www.wikidata.org/entity/Q227936	Bovini
+http://www.wikidata.org/entity/Q1925093	http://www.wikidata.org/entity/Q22708		Metapterygota
+http://www.wikidata.org/entity/Q193106	http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q35409	Ziphiidae
+http://www.wikidata.org/entity/Q19338	http://www.wikidata.org/entity/Q131446239	http://www.wikidata.org/entity/Q36602	Pelecaniformes
+http://www.wikidata.org/entity/Q19338	http://www.wikidata.org/entity/Q43657	http://www.wikidata.org/entity/Q36602	Pelecaniformes
+http://www.wikidata.org/entity/Q19386542	http://www.wikidata.org/entity/Q10360330	http://www.wikidata.org/entity/Q227936	Rhinocerotini
+http://www.wikidata.org/entity/Q194240	http://www.wikidata.org/entity/Q104864059	http://www.wikidata.org/entity/Q5867959	Passeri
+http://www.wikidata.org/entity/Q19561774	http://www.wikidata.org/entity/Q26308	http://www.wikidata.org/entity/Q2889003	Elephantiformes
+http://www.wikidata.org/entity/Q19595522	http://www.wikidata.org/entity/Q2254408		Archelosauria
+http://www.wikidata.org/entity/Q19595985	http://www.wikidata.org/entity/Q43657		Austrodyptornithes
+http://www.wikidata.org/entity/Q19596430	http://www.wikidata.org/entity/Q22285909	http://www.wikidata.org/entity/Q5868144	Columbimorphae
+http://www.wikidata.org/entity/Q19610691	http://www.wikidata.org/entity/Q237993	http://www.wikidata.org/entity/Q7432	Bos taurus
+http://www.wikidata.org/entity/Q19707	http://www.wikidata.org/entity/Q208140	http://www.wikidata.org/entity/Q68947	Equus africanus asinus
+http://www.wikidata.org/entity/Q19709478	http://www.wikidata.org/entity/Q213336	http://www.wikidata.org/entity/Q164280	Hippopotaminae
+http://www.wikidata.org/entity/Q1975652	http://www.wikidata.org/entity/Q146037	http://www.wikidata.org/entity/Q34740	Sequoia
+http://www.wikidata.org/entity/Q1975652	http://www.wikidata.org/entity/Q149335	http://www.wikidata.org/entity/Q34740	Sequoia
+http://www.wikidata.org/entity/Q19806047	http://www.wikidata.org/entity/Q189804	http://www.wikidata.org/entity/Q227936	Caprini
+http://www.wikidata.org/entity/Q19829417	http://www.wikidata.org/entity/Q27022	http://www.wikidata.org/entity/Q7432	Equus asinus
+http://www.wikidata.org/entity/Q19896718	http://www.wikidata.org/entity/Q25305236	http://www.wikidata.org/entity/Q5868144	Anserimorphae
+http://www.wikidata.org/entity/Q19939	http://www.wikidata.org/entity/Q127960	http://www.wikidata.org/entity/Q7432	Panthera tigris
+http://www.wikidata.org/entity/Q19961898	http://www.wikidata.org/entity/Q5856078	http://www.wikidata.org/entity/Q5868144	Passerimorphae
+http://www.wikidata.org/entity/Q19962355	http://www.wikidata.org/entity/Q5856078	http://www.wikidata.org/entity/Q5868144	Psittacimorphae
+http://www.wikidata.org/entity/Q19963386		http://www.wikidata.org/entity/Q5867959	Accipitri
+http://www.wikidata.org/entity/Q19969066	http://www.wikidata.org/entity/Q11316002	http://www.wikidata.org/entity/Q2136103	Accipitroidea
+http://www.wikidata.org/entity/Q19969066	http://www.wikidata.org/entity/Q19963386	http://www.wikidata.org/entity/Q2136103	Accipitroidea
+http://www.wikidata.org/entity/Q19995054	http://www.wikidata.org/entity/Q19610691	http://www.wikidata.org/entity/Q68947	Bos taurus taurus
+http://www.wikidata.org/entity/Q20003762	http://www.wikidata.org/entity/Q25565	http://www.wikidata.org/entity/Q164280	Corvinae
+http://www.wikidata.org/entity/Q2013709	http://www.wikidata.org/entity/Q186334		Eusaurischia
+http://www.wikidata.org/entity/Q2043179	http://www.wikidata.org/entity/Q131092		Tyrannoraptora
+http://www.wikidata.org/entity/Q206930	http://www.wikidata.org/entity/Q5452918	http://www.wikidata.org/entity/Q6311258	Catarrhini
+http://www.wikidata.org/entity/Q20717272	http://www.wikidata.org/entity/Q149892	http://www.wikidata.org/entity/Q7432	Canis familiaris
+http://www.wikidata.org/entity/Q20721907	http://www.wikidata.org/entity/Q30263	http://www.wikidata.org/entity/Q2136103	Otarioidea
+http://www.wikidata.org/entity/Q20744349	http://www.wikidata.org/entity/Q149892	http://www.wikidata.org/entity/Q7432	Canis anthus
+http://www.wikidata.org/entity/Q20747320	http://www.wikidata.org/entity/Q168903	http://www.wikidata.org/entity/Q68947	Bos primigenius taurus
+http://www.wikidata.org/entity/Q20747726	http://www.wikidata.org/entity/Q237993	http://www.wikidata.org/entity/Q7432	Bos indicus
+http://www.wikidata.org/entity/Q208140	http://www.wikidata.org/entity/Q27022	http://www.wikidata.org/entity/Q7432	Equus africanus
+http://www.wikidata.org/entity/Q2082668	http://www.wikidata.org/entity/Q28746016		Mammaliaformes
+http://www.wikidata.org/entity/Q20862	http://www.wikidata.org/entity/Q131950		Tethytheria
+http://www.wikidata.org/entity/Q20868	http://www.wikidata.org/entity/Q5445608	http://www.wikidata.org/entity/Q7506274	Ferae
+http://www.wikidata.org/entity/Q2087279	http://www.wikidata.org/entity/Q822890	http://www.wikidata.org/entity/Q5868144	Dictyoptera
+http://www.wikidata.org/entity/Q209239	http://www.wikidata.org/entity/Q10856	http://www.wikidata.org/entity/Q34740	Columba
+http://www.wikidata.org/entity/Q209239	http://www.wikidata.org/entity/Q135447	http://www.wikidata.org/entity/Q34740	Columba
+http://www.wikidata.org/entity/Q20980826	http://www.wikidata.org/entity/Q228283	http://www.wikidata.org/entity/Q7432	Felis catus
+http://www.wikidata.org/entity/Q20992205	http://www.wikidata.org/entity/Q25368	http://www.wikidata.org/entity/Q5867051	Autobranchia
+http://www.wikidata.org/entity/Q21010688	http://www.wikidata.org/entity/Q25309	http://www.wikidata.org/entity/Q2136103	Corydioidea
+http://www.wikidata.org/entity/Q210416	http://www.wikidata.org/entity/Q620938	http://www.wikidata.org/entity/Q34740	Branta
+http://www.wikidata.org/entity/Q21069166	http://www.wikidata.org/entity/Q21010688	http://www.wikidata.org/entity/Q35409	Corydiidae
+http://www.wikidata.org/entity/Q21069178	http://www.wikidata.org/entity/Q10430796	http://www.wikidata.org/entity/Q35409	Ectobiidae
+http://www.wikidata.org/entity/Q21069184	http://www.wikidata.org/entity/Q3640888	http://www.wikidata.org/entity/Q10296147	Blattoidae
+http://www.wikidata.org/entity/Q21075224	http://www.wikidata.org/entity/Q28319	http://www.wikidata.org/entity/Q5867959	Rhopalocera
+http://www.wikidata.org/entity/Q21153	http://www.wikidata.org/entity/Q7556	http://www.wikidata.org/entity/Q164280	Tadorninae
+http://www.wikidata.org/entity/Q21219068	http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q2889003	Delphinida
+http://www.wikidata.org/entity/Q21222066	http://www.wikidata.org/entity/Q16688742	http://www.wikidata.org/entity/Q227936	Pectinini
+http://www.wikidata.org/entity/Q2123883	http://www.wikidata.org/entity/Q1757612	http://www.wikidata.org/entity/Q34740	Orcinus
+http://www.wikidata.org/entity/Q212937	http://www.wikidata.org/entity/Q1064214	http://www.wikidata.org/entity/Q7432	Anseranas semipalmata
+http://www.wikidata.org/entity/Q213336	http://www.wikidata.org/entity/Q24090673	http://www.wikidata.org/entity/Q35409	Hippopotamidae
+http://www.wikidata.org/entity/Q213336	http://www.wikidata.org/entity/Q25329	http://www.wikidata.org/entity/Q35409	Hippopotamidae
+http://www.wikidata.org/entity/Q21445554	http://www.wikidata.org/entity/Q2292292	http://www.wikidata.org/entity/Q2136103	Equoidea
+http://www.wikidata.org/entity/Q21446362	http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q2136103	Physeteroidea
+http://www.wikidata.org/entity/Q21446607	http://www.wikidata.org/entity/Q10262706	http://www.wikidata.org/entity/Q2136103	Canoidea
+http://www.wikidata.org/entity/Q215760	http://www.wikidata.org/entity/Q1139670	http://www.wikidata.org/entity/Q35409	Delphinidae
+http://www.wikidata.org/entity/Q215760	http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q35409	Delphinidae
+http://www.wikidata.org/entity/Q21584756	http://www.wikidata.org/entity/Q144144	http://www.wikidata.org/entity/Q2136103	Platanistoidea
+http://www.wikidata.org/entity/Q21590143	http://www.wikidata.org/entity/Q2330918		Aequorlitornithes
+http://www.wikidata.org/entity/Q21651	http://www.wikidata.org/entity/Q19896718	http://www.wikidata.org/entity/Q36602	Anseriformes
+http://www.wikidata.org/entity/Q21685	http://www.wikidata.org/entity/Q19595985	http://www.wikidata.org/entity/Q36602	Procellariiformes
+http://www.wikidata.org/entity/Q21728	http://www.wikidata.org/entity/Q43657	http://www.wikidata.org/entity/Q36602	Suliformes
+http://www.wikidata.org/entity/Q21736	http://www.wikidata.org/entity/Q19595747	http://www.wikidata.org/entity/Q36602	Accipitriformes
+http://www.wikidata.org/entity/Q21742	http://www.wikidata.org/entity/Q2182368	http://www.wikidata.org/entity/Q36602	Lamiales
+http://www.wikidata.org/entity/Q2182368	http://www.wikidata.org/entity/Q747502		lamiids
+http://www.wikidata.org/entity/Q21838	http://www.wikidata.org/entity/Q165468	http://www.wikidata.org/entity/Q36602	Proteales
+http://www.wikidata.org/entity/Q21878	http://www.wikidata.org/entity/Q2683213	http://www.wikidata.org/entity/Q36602	Fabales
+http://www.wikidata.org/entity/Q21881	http://www.wikidata.org/entity/Q2683213	http://www.wikidata.org/entity/Q36602	Fagales
+http://www.wikidata.org/entity/Q21887	http://www.wikidata.org/entity/Q2683213	http://www.wikidata.org/entity/Q36602	Malpighiales
+http://www.wikidata.org/entity/Q21908	http://www.wikidata.org/entity/Q2133361	http://www.wikidata.org/entity/Q36602	Malvales
+http://www.wikidata.org/entity/Q219419	http://www.wikidata.org/entity/Q1139670	http://www.wikidata.org/entity/Q35409	Monodontidae
+http://www.wikidata.org/entity/Q2200094	http://www.wikidata.org/entity/Q18389731		Avebrevicauda
+http://www.wikidata.org/entity/Q220328	http://www.wikidata.org/entity/Q10809423	http://www.wikidata.org/entity/Q7432	Psittacus erithacus
+http://www.wikidata.org/entity/Q22087764	http://www.wikidata.org/entity/Q474156		Obazoa
+http://www.wikidata.org/entity/Q22285909	http://www.wikidata.org/entity/Q2330918		Columbaves
+http://www.wikidata.org/entity/Q22344813	http://www.wikidata.org/entity/Q122431	http://www.wikidata.org/entity/Q227936	Cervini
+http://www.wikidata.org/entity/Q223751	http://www.wikidata.org/entity/Q1000370	http://www.wikidata.org/entity/Q35409	Taxaceae
+http://www.wikidata.org/entity/Q223751	http://www.wikidata.org/entity/Q2697797	http://www.wikidata.org/entity/Q35409	Taxaceae
+http://www.wikidata.org/entity/Q223751	http://www.wikidata.org/entity/Q5794838	http://www.wikidata.org/entity/Q35409	Taxaceae
+http://www.wikidata.org/entity/Q223751	http://www.wikidata.org/entity/Q9849989	http://www.wikidata.org/entity/Q35409	Taxaceae
+http://www.wikidata.org/entity/Q2254408	http://www.wikidata.org/entity/Q3497035		Sauria
+http://www.wikidata.org/entity/Q22708	http://www.wikidata.org/entity/Q1210274	http://www.wikidata.org/entity/Q5867051	Pterygota
+http://www.wikidata.org/entity/Q22708	http://www.wikidata.org/entity/Q123422282	http://www.wikidata.org/entity/Q5867051	Pterygota
+http://www.wikidata.org/entity/Q22724	http://www.wikidata.org/entity/Q19806047	http://www.wikidata.org/entity/Q34740	Ovis
+http://www.wikidata.org/entity/Q228283	http://www.wikidata.org/entity/Q42602	http://www.wikidata.org/entity/Q34740	Felis
+http://www.wikidata.org/entity/Q2292156	http://www.wikidata.org/entity/Q20721907	http://www.wikidata.org/entity/Q35409	Odobenidae
+http://www.wikidata.org/entity/Q2292156	http://www.wikidata.org/entity/Q27414	http://www.wikidata.org/entity/Q35409	Odobenidae
+http://www.wikidata.org/entity/Q2292156	http://www.wikidata.org/entity/Q30263	http://www.wikidata.org/entity/Q35409	Odobenidae
+http://www.wikidata.org/entity/Q2292292	http://www.wikidata.org/entity/Q25374	http://www.wikidata.org/entity/Q5867959	Hippomorpha
+http://www.wikidata.org/entity/Q22934885	http://www.wikidata.org/entity/Q2372824	http://www.wikidata.org/entity/Q164280	Elephantinae
+http://www.wikidata.org/entity/Q22934894	http://www.wikidata.org/entity/Q22934885	http://www.wikidata.org/entity/Q227936	Elephantini
+http://www.wikidata.org/entity/Q23005	http://www.wikidata.org/entity/Q1925093	http://www.wikidata.org/entity/Q2007442	Neoptera
+http://www.wikidata.org/entity/Q230177	http://www.wikidata.org/entity/Q25265	http://www.wikidata.org/entity/Q164280	Pantherinae
+http://www.wikidata.org/entity/Q2330918	http://www.wikidata.org/entity/Q19168	http://www.wikidata.org/entity/Q26197587	Neoaves
+http://www.wikidata.org/entity/Q2330918	http://www.wikidata.org/entity/Q19168	http://www.wikidata.org/entity/Q5868144	Neoaves
+http://www.wikidata.org/entity/Q23390	http://www.wikidata.org/entity/Q25329	http://www.wikidata.org/entity/Q35409	Cervidae
+http://www.wikidata.org/entity/Q237157	http://www.wikidata.org/entity/Q5452918	http://www.wikidata.org/entity/Q6311258	Platyrrhini
+http://www.wikidata.org/entity/Q2372824	http://www.wikidata.org/entity/Q5359418	http://www.wikidata.org/entity/Q35409	Elephantidae
+http://www.wikidata.org/entity/Q237993	http://www.wikidata.org/entity/Q16533792	http://www.wikidata.org/entity/Q34740	Bos
+http://www.wikidata.org/entity/Q237993	http://www.wikidata.org/entity/Q192205	http://www.wikidata.org/entity/Q34740	Bos
+http://www.wikidata.org/entity/Q237993	http://www.wikidata.org/entity/Q4979192	http://www.wikidata.org/entity/Q34740	Bos
+http://www.wikidata.org/entity/Q23809240	http://www.wikidata.org/entity/Q160830		Dipnotetrapodomorpha
+http://www.wikidata.org/entity/Q2382443		http://www.wikidata.org/entity/Q22666877	Biota
+http://www.wikidata.org/entity/Q23907	http://www.wikidata.org/entity/Q481907	http://www.wikidata.org/entity/Q7432	Acinonyx jubatus
+http://www.wikidata.org/entity/Q23926871	http://www.wikidata.org/entity/Q19561774		Elephantimorpha
+http://www.wikidata.org/entity/Q24031902	http://www.wikidata.org/entity/Q727029	http://www.wikidata.org/entity/Q5867959	Cetancodonta
+http://www.wikidata.org/entity/Q24090673	http://www.wikidata.org/entity/Q110265920	http://www.wikidata.org/entity/Q2136103	Hippopotamoidea
+http://www.wikidata.org/entity/Q24090673	http://www.wikidata.org/entity/Q24031902	http://www.wikidata.org/entity/Q2136103	Hippopotamoidea
+http://www.wikidata.org/entity/Q24090673	http://www.wikidata.org/entity/Q7993757	http://www.wikidata.org/entity/Q2136103	Hippopotamoidea
+http://www.wikidata.org/entity/Q242047	http://www.wikidata.org/entity/Q635162	http://www.wikidata.org/entity/Q164280	Homininae
+http://www.wikidata.org/entity/Q243359	http://www.wikidata.org/entity/Q7901176	http://www.wikidata.org/entity/Q34740	Ursus
+http://www.wikidata.org/entity/Q244107	http://www.wikidata.org/entity/Q27725	http://www.wikidata.org/entity/Q34740	Nettapus
+http://www.wikidata.org/entity/Q2474088	http://www.wikidata.org/entity/Q25324	http://www.wikidata.org/entity/Q164280	Caninae
+http://www.wikidata.org/entity/Q247412	http://www.wikidata.org/entity/Q14122369	http://www.wikidata.org/entity/Q7432	Plectropterus gambensis
+http://www.wikidata.org/entity/Q2478975	http://www.wikidata.org/entity/Q2513125	http://www.wikidata.org/entity/Q2007442	Holotheria
+http://www.wikidata.org/entity/Q24966129	http://www.wikidata.org/entity/Q1131559		Apoikozoa
+http://www.wikidata.org/entity/Q2513125	http://www.wikidata.org/entity/Q26708524	http://www.wikidata.org/entity/Q5867051	Theriiformes
+http://www.wikidata.org/entity/Q25222	http://www.wikidata.org/entity/Q15718604	http://www.wikidata.org/entity/Q36602	Strigiformes
+http://www.wikidata.org/entity/Q25241	http://www.wikidata.org/entity/Q10915	http://www.wikidata.org/entity/Q1153785	Vertebrata
+http://www.wikidata.org/entity/Q25241	http://www.wikidata.org/entity/Q3280581	http://www.wikidata.org/entity/Q1153785	Vertebrata
+http://www.wikidata.org/entity/Q25265	http://www.wikidata.org/entity/Q10281053	http://www.wikidata.org/entity/Q35409	Felidae
+http://www.wikidata.org/entity/Q25306	http://www.wikidata.org/entity/Q106488638	http://www.wikidata.org/entity/Q36602	Carnivora
+http://www.wikidata.org/entity/Q25306	http://www.wikidata.org/entity/Q25833	http://www.wikidata.org/entity/Q36602	Carnivora
+http://www.wikidata.org/entity/Q25306	http://www.wikidata.org/entity/Q27379	http://www.wikidata.org/entity/Q36602	Carnivora
+http://www.wikidata.org/entity/Q25306	http://www.wikidata.org/entity/Q7377	http://www.wikidata.org/entity/Q36602	Carnivora
+http://www.wikidata.org/entity/Q25309	http://www.wikidata.org/entity/Q2087279	http://www.wikidata.org/entity/Q36602	Blattodea
+http://www.wikidata.org/entity/Q25309	http://www.wikidata.org/entity/Q2087279	http://www.wikidata.org/entity/Q5867959	Blattodea
+http://www.wikidata.org/entity/Q25309	http://www.wikidata.org/entity/Q822890	http://www.wikidata.org/entity/Q36602	Blattodea
+http://www.wikidata.org/entity/Q25309	http://www.wikidata.org/entity/Q822890	http://www.wikidata.org/entity/Q5867959	Blattodea
+http://www.wikidata.org/entity/Q25324	http://www.wikidata.org/entity/Q21446607	http://www.wikidata.org/entity/Q35409	Canidae
+http://www.wikidata.org/entity/Q25326	http://www.wikidata.org/entity/Q321481	http://www.wikidata.org/entity/Q38348	Mollusca
+http://www.wikidata.org/entity/Q25329	http://www.wikidata.org/entity/Q68119354	http://www.wikidata.org/entity/Q36602	Artiodactyla
+http://www.wikidata.org/entity/Q25341	http://www.wikidata.org/entity/Q135105005	http://www.wikidata.org/entity/Q36602	Passeriformes
+http://www.wikidata.org/entity/Q25356	http://www.wikidata.org/entity/Q158487	http://www.wikidata.org/entity/Q34740	Populus
+http://www.wikidata.org/entity/Q25357	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus corax
+http://www.wikidata.org/entity/Q25368	http://www.wikidata.org/entity/Q25326	http://www.wikidata.org/entity/Q37517	Bivalvia
+http://www.wikidata.org/entity/Q25371	http://www.wikidata.org/entity/Q26214	http://www.wikidata.org/entity/Q37517	Chondrichthyes
+http://www.wikidata.org/entity/Q25374	http://www.wikidata.org/entity/Q125762739	http://www.wikidata.org/entity/Q36602	Perissodactyla
+http://www.wikidata.org/entity/Q25385817	http://www.wikidata.org/entity/Q131403	http://www.wikidata.org/entity/Q36602	Pectinida
+http://www.wikidata.org/entity/Q25401	http://www.wikidata.org/entity/Q660432	http://www.wikidata.org/entity/Q36602	Lagomorpha
+http://www.wikidata.org/entity/Q25402	http://www.wikidata.org/entity/Q29564928	http://www.wikidata.org/entity/Q7432	Cygnus olor
+http://www.wikidata.org/entity/Q25403	http://www.wikidata.org/entity/Q14920699	http://www.wikidata.org/entity/Q34740	Fagus
+http://www.wikidata.org/entity/Q25497	http://www.wikidata.org/entity/Q25329	http://www.wikidata.org/entity/Q35409	Bovidae
+http://www.wikidata.org/entity/Q25510	http://www.wikidata.org/entity/Q19969066	http://www.wikidata.org/entity/Q35409	Accipitridae
+http://www.wikidata.org/entity/Q25510	http://www.wikidata.org/entity/Q21736	http://www.wikidata.org/entity/Q35409	Accipitridae
+http://www.wikidata.org/entity/Q25537662	http://www.wikidata.org/entity/Q16986904	http://www.wikidata.org/entity/Q5867959	Serpentes
+http://www.wikidata.org/entity/Q25565	http://www.wikidata.org/entity/Q15998878	http://www.wikidata.org/entity/Q35409	Corvidae
+http://www.wikidata.org/entity/Q2557546	http://www.wikidata.org/entity/Q17395041	http://www.wikidata.org/entity/Q5867959	Ceratomorpha
+http://www.wikidata.org/entity/Q257006	http://www.wikidata.org/entity/Q15873814	http://www.wikidata.org/entity/Q7432	Cereopsis novaehollandiae
+http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q11931934	http://www.wikidata.org/entity/Q3491997	Spermatophytes
+http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q27133	http://www.wikidata.org/entity/Q3491997	Spermatophytes
+http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q3395822	http://www.wikidata.org/entity/Q3491997	Spermatophytes
+http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q642865	http://www.wikidata.org/entity/Q3491997	Spermatophytes
+http://www.wikidata.org/entity/Q25900	http://www.wikidata.org/entity/Q25401	http://www.wikidata.org/entity/Q35409	Leporidae
+http://www.wikidata.org/entity/Q25978	http://www.wikidata.org/entity/Q21590143	http://www.wikidata.org/entity/Q36602	Charadriiformes
+http://www.wikidata.org/entity/Q26012	http://www.wikidata.org/entity/Q25222	http://www.wikidata.org/entity/Q35409	Strigidae
+http://www.wikidata.org/entity/Q26214	http://www.wikidata.org/entity/Q25241	http://www.wikidata.org/entity/Q2361851	Gnathostomata
+http://www.wikidata.org/entity/Q26308	http://www.wikidata.org/entity/Q20862	http://www.wikidata.org/entity/Q36602	Proboscidea
+http://www.wikidata.org/entity/Q26316	http://www.wikidata.org/entity/Q2133361	http://www.wikidata.org/entity/Q36602	Sapindales
+http://www.wikidata.org/entity/Q26745	http://www.wikidata.org/entity/Q42292	http://www.wikidata.org/entity/Q7432	Acer platanoides
+http://www.wikidata.org/entity/Q26782	http://www.wikidata.org/entity/Q14920716	http://www.wikidata.org/entity/Q34740	Picea
+http://www.wikidata.org/entity/Q26843	http://www.wikidata.org/entity/Q2123883	http://www.wikidata.org/entity/Q7432	Orcinus orca
+http://www.wikidata.org/entity/Q26972265	http://www.wikidata.org/entity/Q18498	http://www.wikidata.org/entity/Q68947	Canis lupus familiaris
+http://www.wikidata.org/entity/Q2697797	http://www.wikidata.org/entity/Q1329304	http://www.wikidata.org/entity/Q36602	Taxales
+http://www.wikidata.org/entity/Q2697797	http://www.wikidata.org/entity/Q99234725	http://www.wikidata.org/entity/Q36602	Taxales
+http://www.wikidata.org/entity/Q27022	http://www.wikidata.org/entity/Q5384516	http://www.wikidata.org/entity/Q34740	Equus
+http://www.wikidata.org/entity/Q2704723	http://www.wikidata.org/entity/Q21222066	http://www.wikidata.org/entity/Q34740	Pecten
+http://www.wikidata.org/entity/Q27070	http://www.wikidata.org/entity/Q25306	http://www.wikidata.org/entity/Q5867959	Feliformia
+http://www.wikidata.org/entity/Q27147	http://www.wikidata.org/entity/Q26316	http://www.wikidata.org/entity/Q35409	Sapindaceae
+http://www.wikidata.org/entity/Q2718670	http://www.wikidata.org/entity/Q25833	http://www.wikidata.org/entity/Q6054237	Atlantogenata
+http://www.wikidata.org/entity/Q27207	http://www.wikidata.org/entity/Q3059636	http://www.wikidata.org/entity/Q60922428	Osteichthyes
+http://www.wikidata.org/entity/Q27355	http://www.wikidata.org/entity/Q223751	http://www.wikidata.org/entity/Q34740	Taxus
+http://www.wikidata.org/entity/Q27379	http://www.wikidata.org/entity/Q132666	http://www.wikidata.org/entity/Q5868144	Laurasiatheria
+http://www.wikidata.org/entity/Q27399	http://www.wikidata.org/entity/Q25833	http://www.wikidata.org/entity/Q5868144	Afrotheria
+http://www.wikidata.org/entity/Q27399	http://www.wikidata.org/entity/Q2718670	http://www.wikidata.org/entity/Q5868144	Afrotheria
+http://www.wikidata.org/entity/Q2740164	http://www.wikidata.org/entity/Q616657		Dinosauriformes
+http://www.wikidata.org/entity/Q27414	http://www.wikidata.org/entity/Q25306	http://www.wikidata.org/entity/Q5867959	Caniformia
+http://www.wikidata.org/entity/Q274179	http://www.wikidata.org/entity/Q259050	http://www.wikidata.org/entity/Q7432	Alopochen aegyptiaca
+http://www.wikidata.org/entity/Q2752642	http://www.wikidata.org/entity/Q135333		Euornithes
+http://www.wikidata.org/entity/Q27725	http://www.wikidata.org/entity/Q7556	http://www.wikidata.org/entity/Q164280	Anatinae
+http://www.wikidata.org/entity/Q27742	http://www.wikidata.org/entity/Q27022	http://www.wikidata.org/entity/Q7432	Equus ferus
+http://www.wikidata.org/entity/Q28266	http://www.wikidata.org/entity/Q2474088	http://www.wikidata.org/entity/Q227936	Canini
+http://www.wikidata.org/entity/Q28319	http://www.wikidata.org/entity/Q304358	http://www.wikidata.org/entity/Q36602	Lepidoptera
+http://www.wikidata.org/entity/Q28319	http://www.wikidata.org/entity/Q37140800	http://www.wikidata.org/entity/Q36602	Lepidoptera
+http://www.wikidata.org/entity/Q28319	http://www.wikidata.org/entity/Q594224	http://www.wikidata.org/entity/Q36602	Lepidoptera
+http://www.wikidata.org/entity/Q2910821	http://www.wikidata.org/entity/Q2497754	http://www.wikidata.org/entity/Q6054535	Boreosphenida
+http://www.wikidata.org/entity/Q2910821	http://www.wikidata.org/entity/Q941624	http://www.wikidata.org/entity/Q6054535	Boreosphenida
+http://www.wikidata.org/entity/Q29350771	http://www.wikidata.org/entity/Q22724	http://www.wikidata.org/entity/Q7432	Ovis aries
+http://www.wikidata.org/entity/Q29564928	http://www.wikidata.org/entity/Q13508009	http://www.wikidata.org/entity/Q34740	Cygnus
+http://www.wikidata.org/entity/Q29564928	http://www.wikidata.org/entity/Q620938	http://www.wikidata.org/entity/Q34740	Cygnus
+http://www.wikidata.org/entity/Q296910	http://www.wikidata.org/entity/Q155966	http://www.wikidata.org/entity/Q34740	Olea
+http://www.wikidata.org/entity/Q2997417	http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q334460	Cormophyta
+http://www.wikidata.org/entity/Q3021879	http://www.wikidata.org/entity/Q215760	http://www.wikidata.org/entity/Q164280	Delphininae
+http://www.wikidata.org/entity/Q30223	http://www.wikidata.org/entity/Q2474088	http://www.wikidata.org/entity/Q227936	Vulpini
+http://www.wikidata.org/entity/Q30263	http://www.wikidata.org/entity/Q27414	http://www.wikidata.org/entity/Q2889003	Pinnipedia
+http://www.wikidata.org/entity/Q3055913	http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q334460	Equisetophyta
+http://www.wikidata.org/entity/Q3059636	http://www.wikidata.org/entity/Q26214	http://www.wikidata.org/entity/Q713623	Eugnathostomata
+http://www.wikidata.org/entity/Q3060510	http://www.wikidata.org/entity/Q10811		Eureptilia
+http://www.wikidata.org/entity/Q307157	http://www.wikidata.org/entity/Q36611	http://www.wikidata.org/entity/Q7432	Gorilla beringei
+http://www.wikidata.org/entity/Q310746	http://www.wikidata.org/entity/Q33230017	http://www.wikidata.org/entity/Q34740	Elephas
+http://www.wikidata.org/entity/Q31431	http://www.wikidata.org/entity/Q19962355	http://www.wikidata.org/entity/Q36602	Psittaciformes
+http://www.wikidata.org/entity/Q316856	http://www.wikidata.org/entity/Q44448	http://www.wikidata.org/entity/Q164280	Faboideae
+http://www.wikidata.org/entity/Q321481	http://www.wikidata.org/entity/Q1211307	http://www.wikidata.org/entity/Q2111790	Lophotrochozoa
+http://www.wikidata.org/entity/Q322241	http://www.wikidata.org/entity/Q5853182		Therapsida
+http://www.wikidata.org/entity/Q3235669	http://www.wikidata.org/entity/Q27414	http://www.wikidata.org/entity/Q2889003	Arctoidea
+http://www.wikidata.org/entity/Q3239179	http://www.wikidata.org/entity/Q13965050		Ornithurae
+http://www.wikidata.org/entity/Q326483	http://www.wikidata.org/entity/Q14635103		Eufalconimorphae
+http://www.wikidata.org/entity/Q3280581	http://www.wikidata.org/entity/Q10915		Olfactores
+http://www.wikidata.org/entity/Q329457	http://www.wikidata.org/entity/Q181537		Sauropsida
+http://www.wikidata.org/entity/Q3305022	http://www.wikidata.org/entity/Q107588	http://www.wikidata.org/entity/Q3965313	Panina
+http://www.wikidata.org/entity/Q33176584	http://www.wikidata.org/entity/Q186154	http://www.wikidata.org/entity/Q227936	Giraffini
+http://www.wikidata.org/entity/Q33176649	http://www.wikidata.org/entity/Q22934885	http://www.wikidata.org/entity/Q227936	Loxodontini
+http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q2382443	http://www.wikidata.org/entity/Q22666877	Cytota
+http://www.wikidata.org/entity/Q33229472	http://www.wikidata.org/entity/Q28266	http://www.wikidata.org/entity/Q3965313	Canina
+http://www.wikidata.org/entity/Q33230017	http://www.wikidata.org/entity/Q22934894	http://www.wikidata.org/entity/Q3965313	Elephantina
+http://www.wikidata.org/entity/Q33602	http://www.wikidata.org/entity/Q535979	http://www.wikidata.org/entity/Q7432	Ailuropoda melanoleuca
+http://www.wikidata.org/entity/Q33609	http://www.wikidata.org/entity/Q243359	http://www.wikidata.org/entity/Q7432	Ursus maritimus
+http://www.wikidata.org/entity/Q3395822	http://www.wikidata.org/entity/Q192154		Polysporangiophytes
+http://www.wikidata.org/entity/Q3428352	http://www.wikidata.org/entity/Q25329		Artiofabula
+http://www.wikidata.org/entity/Q34505	http://www.wikidata.org/entity/Q629680	http://www.wikidata.org/entity/Q7432	Hippopotamus amphibius
+http://www.wikidata.org/entity/Q34718	http://www.wikidata.org/entity/Q15487229	http://www.wikidata.org/entity/Q35409	Rhinocerotidae
+http://www.wikidata.org/entity/Q34718	http://www.wikidata.org/entity/Q25374	http://www.wikidata.org/entity/Q35409	Rhinocerotidae
+http://www.wikidata.org/entity/Q3497035	http://www.wikidata.org/entity/Q134688		Neodiapsida
+http://www.wikidata.org/entity/Q36151813	http://www.wikidata.org/entity/Q16986600	http://www.wikidata.org/entity/Q713623	Hologalegina
+http://www.wikidata.org/entity/Q36341	http://www.wikidata.org/entity/Q243359	http://www.wikidata.org/entity/Q7432	Ursus arctos
+http://www.wikidata.org/entity/Q3640888	http://www.wikidata.org/entity/Q25309	http://www.wikidata.org/entity/Q2136103	Blattoidea
+http://www.wikidata.org/entity/Q36557	http://www.wikidata.org/entity/Q185038	http://www.wikidata.org/entity/Q7432	Loxodonta africana
+http://www.wikidata.org/entity/Q36611	http://www.wikidata.org/entity/Q5883633	http://www.wikidata.org/entity/Q34740	Gorilla
+http://www.wikidata.org/entity/Q3665073	http://www.wikidata.org/entity/Q206930	http://www.wikidata.org/entity/Q2136103	Cercopithecoidea
+http://www.wikidata.org/entity/Q3665073	http://www.wikidata.org/entity/Q5452918	http://www.wikidata.org/entity/Q2136103	Cercopithecoidea
+http://www.wikidata.org/entity/Q367753	http://www.wikidata.org/entity/Q21153	http://www.wikidata.org/entity/Q34740	Chloephaga
+http://www.wikidata.org/entity/Q37083	http://www.wikidata.org/entity/Q296910	http://www.wikidata.org/entity/Q7432	Olea europaea
+http://www.wikidata.org/entity/Q37496661	http://www.wikidata.org/entity/Q160		Pelagiceti
+http://www.wikidata.org/entity/Q3755098	http://www.wikidata.org/entity/Q430898	http://www.wikidata.org/entity/Q227936	Pongini
+http://www.wikidata.org/entity/Q40994	http://www.wikidata.org/entity/Q5361186	http://www.wikidata.org/entity/Q7432	Odobenus rosmarus
+http://www.wikidata.org/entity/Q41050	http://www.wikidata.org/entity/Q3755098	http://www.wikidata.org/entity/Q34740	Pongo
+http://www.wikidata.org/entity/Q4126704	http://www.wikidata.org/entity/Q80174	http://www.wikidata.org/entity/Q7432	Pan troglodytes
+http://www.wikidata.org/entity/Q420818	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus ruficollis
+http://www.wikidata.org/entity/Q42292	http://www.wikidata.org/entity/Q163489	http://www.wikidata.org/entity/Q34740	Acer
+http://www.wikidata.org/entity/Q42326	http://www.wikidata.org/entity/Q209239	http://www.wikidata.org/entity/Q7432	Columba livia
+http://www.wikidata.org/entity/Q42602	http://www.wikidata.org/entity/Q25265	http://www.wikidata.org/entity/Q164280	Felinae
+http://www.wikidata.org/entity/Q430	http://www.wikidata.org/entity/Q52798775	http://www.wikidata.org/entity/Q5868144	Dinosauria
+http://www.wikidata.org/entity/Q430898	http://www.wikidata.org/entity/Q635162	http://www.wikidata.org/entity/Q164280	Ponginae
+http://www.wikidata.org/entity/Q43284	http://www.wikidata.org/entity/Q149461	http://www.wikidata.org/entity/Q7432	Ginkgo biloba
+http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q20003762	http://www.wikidata.org/entity/Q34740	Corvus
+http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q25565	http://www.wikidata.org/entity/Q34740	Corvus
+http://www.wikidata.org/entity/Q43576	http://www.wikidata.org/entity/Q228283	http://www.wikidata.org/entity/Q7432	Felis silvestris
+http://www.wikidata.org/entity/Q43657	http://www.wikidata.org/entity/Q21590143	http://www.wikidata.org/entity/Q5868144	Aequornithes
+http://www.wikidata.org/entity/Q44448	http://www.wikidata.org/entity/Q21878	http://www.wikidata.org/entity/Q35409	Fabaceae
+http://www.wikidata.org/entity/Q45320358	http://www.wikidata.org/entity/Q172923	http://www.wikidata.org/entity/Q7432	Capra hircus
+http://www.wikidata.org/entity/Q4589415	http://www.wikidata.org/entity/Q19088		Diaphoretickes
+http://www.wikidata.org/entity/Q4687717	http://www.wikidata.org/entity/Q27070	http://www.wikidata.org/entity/Q2889003	Aeluroidea
+http://www.wikidata.org/entity/Q46889	http://www.wikidata.org/entity/Q19610691	http://www.wikidata.org/entity/Q68947	Bos primigenius indicus
+http://www.wikidata.org/entity/Q471797	http://www.wikidata.org/entity/Q132666	http://www.wikidata.org/entity/Q5868144	Euarchontoglires
+http://www.wikidata.org/entity/Q472943	http://www.wikidata.org/entity/Q140733	http://www.wikidata.org/entity/Q34740	Robinia
+http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q19088		Amorphea
+http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q48995893		Amorphea
+http://www.wikidata.org/entity/Q47910	http://www.wikidata.org/entity/Q134657	http://www.wikidata.org/entity/Q7432	Rhinoceros unicornis
+http://www.wikidata.org/entity/Q481907	http://www.wikidata.org/entity/Q42602	http://www.wikidata.org/entity/Q34740	Acinonyx
+http://www.wikidata.org/entity/Q4828332	http://www.wikidata.org/entity/Q145206		Averostra
+http://www.wikidata.org/entity/Q4828939	http://www.wikidata.org/entity/Q131793		Pennaraptora
+http://www.wikidata.org/entity/Q4867740	http://www.wikidata.org/entity/Q25326	http://www.wikidata.org/entity/Q37517	Gastropoda
+http://www.wikidata.org/entity/Q48836620	http://www.wikidata.org/entity/Q19088		Orthokaryotes
+http://www.wikidata.org/entity/Q48836623	http://www.wikidata.org/entity/Q48836620		Neokaryotes
+http://www.wikidata.org/entity/Q48995893	http://www.wikidata.org/entity/Q19088		Podiata
+http://www.wikidata.org/entity/Q48995893	http://www.wikidata.org/entity/Q48836623		Podiata
+http://www.wikidata.org/entity/Q4979192	http://www.wikidata.org/entity/Q25497	http://www.wikidata.org/entity/Q164280	Bovinae
+http://www.wikidata.org/entity/Q5113	http://www.wikidata.org/entity/Q3239179	http://www.wikidata.org/entity/Q37517	Aves
+http://www.wikidata.org/entity/Q5171	http://www.wikidata.org/entity/Q3059449	http://www.wikidata.org/entity/Q3150876	Protostomia
+http://www.wikidata.org/entity/Q5171	http://www.wikidata.org/entity/Q5173	http://www.wikidata.org/entity/Q3150876	Protostomia
+http://www.wikidata.org/entity/Q5174	http://www.wikidata.org/entity/Q729	http://www.wikidata.org/entity/Q2752679	Eumetazoa
+http://www.wikidata.org/entity/Q5176	http://www.wikidata.org/entity/Q5171	http://www.wikidata.org/entity/Q2111790	Ecdysozoa
+http://www.wikidata.org/entity/Q52762328	http://www.wikidata.org/entity/Q2043179		Maniraptoromorpha
+http://www.wikidata.org/entity/Q5359418	http://www.wikidata.org/entity/Q20686726	http://www.wikidata.org/entity/Q2136103	Elephantoidea
+http://www.wikidata.org/entity/Q535979	http://www.wikidata.org/entity/Q11788	http://www.wikidata.org/entity/Q34740	Ailuropoda
+http://www.wikidata.org/entity/Q535979	http://www.wikidata.org/entity/Q17560554	http://www.wikidata.org/entity/Q34740	Ailuropoda
+http://www.wikidata.org/entity/Q5361186	http://www.wikidata.org/entity/Q2292156	http://www.wikidata.org/entity/Q34740	Odobenus
+http://www.wikidata.org/entity/Q5381965	http://www.wikidata.org/entity/Q1209254		Eotetrapodiformes
+http://www.wikidata.org/entity/Q5384494	http://www.wikidata.org/entity/Q165115	http://www.wikidata.org/entity/Q164280	Equinae
+http://www.wikidata.org/entity/Q5384516	http://www.wikidata.org/entity/Q5384494	http://www.wikidata.org/entity/Q227936	Equini
+http://www.wikidata.org/entity/Q5414469	http://www.wikidata.org/entity/Q132812		Eutheriodontia
+http://www.wikidata.org/entity/Q5414620	http://www.wikidata.org/entity/Q110047432	http://www.wikidata.org/entity/Q7506274	Euungulata
+http://www.wikidata.org/entity/Q543424	http://www.wikidata.org/entity/Q41050	http://www.wikidata.org/entity/Q7432	Pongo abelii
+http://www.wikidata.org/entity/Q5445608	http://www.wikidata.org/entity/Q7439311	http://www.wikidata.org/entity/Q6462265	Ferungulata
+http://www.wikidata.org/entity/Q5452918	http://www.wikidata.org/entity/Q82261	http://www.wikidata.org/entity/Q2889003	Simiiformes
+http://www.wikidata.org/entity/Q54873	http://www.wikidata.org/entity/Q19078	http://www.wikidata.org/entity/Q35409	Iniidae
+http://www.wikidata.org/entity/Q5563152	http://www.wikidata.org/entity/Q10788836	http://www.wikidata.org/entity/Q5867051	Ginkgoidae
+http://www.wikidata.org/entity/Q56639776	http://www.wikidata.org/entity/Q25814		Acrogymnospermae
+http://www.wikidata.org/entity/Q57818409	http://www.wikidata.org/entity/Q43576	http://www.wikidata.org/entity/Q68947	Felis silvestris catus
+http://www.wikidata.org/entity/Q5794838	http://www.wikidata.org/entity/Q7195896	http://www.wikidata.org/entity/Q36602	Cupressales
+http://www.wikidata.org/entity/Q5852697	http://www.wikidata.org/entity/Q950661		Prozostrodontia
+http://www.wikidata.org/entity/Q5853182	http://www.wikidata.org/entity/Q124775759		Sphenacodontoidea
+http://www.wikidata.org/entity/Q5856078	http://www.wikidata.org/entity/Q326483		Psittacopasserae
+http://www.wikidata.org/entity/Q5883633	http://www.wikidata.org/entity/Q242047	http://www.wikidata.org/entity/Q227936	Gorillini
+http://www.wikidata.org/entity/Q594224	http://www.wikidata.org/entity/Q123504133	http://www.wikidata.org/entity/Q5868144	Amphiesmenoptera
+http://www.wikidata.org/entity/Q594224	http://www.wikidata.org/entity/Q16987281	http://www.wikidata.org/entity/Q5868144	Amphiesmenoptera
+http://www.wikidata.org/entity/Q594224	http://www.wikidata.org/entity/Q304358	http://www.wikidata.org/entity/Q5868144	Amphiesmenoptera
+http://www.wikidata.org/entity/Q594224	http://www.wikidata.org/entity/Q37140800	http://www.wikidata.org/entity/Q5868144	Amphiesmenoptera
+http://www.wikidata.org/entity/Q605457	http://www.wikidata.org/entity/Q107588	http://www.wikidata.org/entity/Q3965313	Hominina
+http://www.wikidata.org/entity/Q6078080	http://www.wikidata.org/entity/Q21584756	http://www.wikidata.org/entity/Q35409	Platanistidae
+http://www.wikidata.org/entity/Q616657	http://www.wikidata.org/entity/Q133190		Dinosauromorpha
+http://www.wikidata.org/entity/Q620938	http://www.wikidata.org/entity/Q7556	http://www.wikidata.org/entity/Q164280	Anserinae
+http://www.wikidata.org/entity/Q629680	http://www.wikidata.org/entity/Q19709478	http://www.wikidata.org/entity/Q34740	Hippopotamus
+http://www.wikidata.org/entity/Q635162	http://www.wikidata.org/entity/Q102470	http://www.wikidata.org/entity/Q35409	Hominidae
+http://www.wikidata.org/entity/Q640108	http://www.wikidata.org/entity/Q10430796	http://www.wikidata.org/entity/Q35409	Blaberidae
+http://www.wikidata.org/entity/Q644255	http://www.wikidata.org/entity/Q22344813	http://www.wikidata.org/entity/Q34740	Cervus
+http://www.wikidata.org/entity/Q659685	http://www.wikidata.org/entity/Q2851721	http://www.wikidata.org/entity/Q34740	Anniella
+http://www.wikidata.org/entity/Q660432	http://www.wikidata.org/entity/Q92189203	http://www.wikidata.org/entity/Q6462265	Glires
+http://www.wikidata.org/entity/Q671280	http://www.wikidata.org/entity/Q1633496		Pancrustacea
+http://www.wikidata.org/entity/Q677746	http://www.wikidata.org/entity/Q18498	http://www.wikidata.org/entity/Q68947	Canis lupus lycaon
+http://www.wikidata.org/entity/Q68119354	http://www.wikidata.org/entity/Q5414620	http://www.wikidata.org/entity/Q5868144	Paraxonia
+http://www.wikidata.org/entity/Q685653	http://www.wikidata.org/entity/Q25900	http://www.wikidata.org/entity/Q34740	Pronolagus
+http://www.wikidata.org/entity/Q7158891	http://www.wikidata.org/entity/Q25385817	http://www.wikidata.org/entity/Q2136103	Pectinoidea
+http://www.wikidata.org/entity/Q7195896	http://www.wikidata.org/entity/Q1329304	http://www.wikidata.org/entity/Q5867051	Pinidae
+http://www.wikidata.org/entity/Q7195896	http://www.wikidata.org/entity/Q134677	http://www.wikidata.org/entity/Q5867051	Pinidae
+http://www.wikidata.org/entity/Q726	http://www.wikidata.org/entity/Q27742	http://www.wikidata.org/entity/Q68947	Equus ferus caballus
+http://www.wikidata.org/entity/Q727029	http://www.wikidata.org/entity/Q1369337		Cetancodontamorpha
+http://www.wikidata.org/entity/Q728299	http://www.wikidata.org/entity/Q134665	http://www.wikidata.org/entity/Q5868144	Lepidosauria
+http://www.wikidata.org/entity/Q728566	http://www.wikidata.org/entity/Q471797	http://www.wikidata.org/entity/Q6462265	Euarchonta
+http://www.wikidata.org/entity/Q729	http://www.wikidata.org/entity/Q24966129	http://www.wikidata.org/entity/Q36732	Animalia
+http://www.wikidata.org/entity/Q7377	http://www.wikidata.org/entity/Q2082668	http://www.wikidata.org/entity/Q37517	Mammalia
+http://www.wikidata.org/entity/Q737838	http://www.wikidata.org/entity/Q36611	http://www.wikidata.org/entity/Q7432	Gorilla gorilla
+http://www.wikidata.org/entity/Q737878	http://www.wikidata.org/entity/Q307157	http://www.wikidata.org/entity/Q68947	Gorilla beringei beringei
+http://www.wikidata.org/entity/Q7380	http://www.wikidata.org/entity/Q135424	http://www.wikidata.org/entity/Q36602	Primates
+http://www.wikidata.org/entity/Q738191	http://www.wikidata.org/entity/Q131587431	http://www.wikidata.org/entity/Q34740	Urocyon
+http://www.wikidata.org/entity/Q738191	http://www.wikidata.org/entity/Q25324	http://www.wikidata.org/entity/Q34740	Urocyon
+http://www.wikidata.org/entity/Q7439311	http://www.wikidata.org/entity/Q27379	http://www.wikidata.org/.well-known/genid/e354c620669c9b17f88f987502637f2c	Scrotifera
+http://www.wikidata.org/entity/Q748448	http://www.wikidata.org/entity/Q25900	http://www.wikidata.org/entity/Q34740	Sylvilagus
+http://www.wikidata.org/entity/Q7556	http://www.wikidata.org/entity/Q16124376	http://www.wikidata.org/entity/Q35409	Anatidae
+http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q36732	Plantae
+http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q879246	http://www.wikidata.org/entity/Q36732	Plantae
+http://www.wikidata.org/entity/Q772442	http://www.wikidata.org/entity/Q192164	http://www.wikidata.org/entity/Q2889003	Pecora
+http://www.wikidata.org/entity/Q782930	http://www.wikidata.org/entity/Q136586		Avialae
+http://www.wikidata.org/entity/Q7848560	http://www.wikidata.org/entity/Q21069184	http://www.wikidata.org/entity/Q35409	Tryonicidae
+http://www.wikidata.org/entity/Q788544	http://www.wikidata.org/entity/Q18579837	http://www.wikidata.org/entity/Q35409	Strigopidae
+http://www.wikidata.org/entity/Q7901176	http://www.wikidata.org/entity/Q11788	http://www.wikidata.org/entity/Q164280	Ursinae
+http://www.wikidata.org/entity/Q79794	http://www.wikidata.org/entity/Q644255	http://www.wikidata.org/entity/Q7432	Cervus elaphus
+http://www.wikidata.org/entity/Q7993757	http://www.wikidata.org/entity/Q727029	http://www.wikidata.org/entity/Q5867959	Whippomorpha
+http://www.wikidata.org/entity/Q80174	http://www.wikidata.org/entity/Q3305022	http://www.wikidata.org/entity/Q34740	Pan
+http://www.wikidata.org/entity/Q80174	http://www.wikidata.org/entity/Q605457	http://www.wikidata.org/entity/Q34740	Pan
+http://www.wikidata.org/entity/Q80174	http://www.wikidata.org/entity/Q635162	http://www.wikidata.org/entity/Q34740	Pan
+http://www.wikidata.org/entity/Q81196012	http://www.wikidata.org/entity/Q671280		Allotriocarida
+http://www.wikidata.org/entity/Q82261	http://www.wikidata.org/entity/Q7380	http://www.wikidata.org/entity/Q5867959	Haplorhini
+http://www.wikidata.org/entity/Q822890	http://www.wikidata.org/entity/Q23005	http://www.wikidata.org/entity/Q2981883	Polyneoptera
+http://www.wikidata.org/entity/Q82562	http://www.wikidata.org/entity/Q620938	http://www.wikidata.org/entity/Q227936	Anserini
+http://www.wikidata.org/entity/Q8327	http://www.wikidata.org/entity/Q13624220	http://www.wikidata.org/entity/Q35409	Psittacidae
+http://www.wikidata.org/entity/Q835097	http://www.wikidata.org/entity/Q5563152	http://www.wikidata.org/entity/Q36602	Ginkgoales
+http://www.wikidata.org/entity/Q837402	http://www.wikidata.org/entity/Q2962666	http://www.wikidata.org/entity/Q7432	Chenonetta jubata
+http://www.wikidata.org/entity/Q843349	http://www.wikidata.org/entity/Q10788836	http://www.wikidata.org/entity/Q35409	Ginkgoaceae
+http://www.wikidata.org/entity/Q843349	http://www.wikidata.org/entity/Q835097	http://www.wikidata.org/entity/Q35409	Ginkgoaceae
+http://www.wikidata.org/entity/Q853058	http://www.wikidata.org/entity/Q19168	http://www.wikidata.org/entity/Q5868144	Galloanserae
+http://www.wikidata.org/entity/Q85741487	http://www.wikidata.org/entity/Q21069184	http://www.wikidata.org/entity/Q35409	Anaplectidae
+http://www.wikidata.org/entity/Q862089	http://www.wikidata.org/entity/Q102132044	http://www.wikidata.org/entity/Q34740	Giraffa
+http://www.wikidata.org/entity/Q876500	http://www.wikidata.org/entity/Q737838	http://www.wikidata.org/entity/Q68947	Gorilla gorilla gorilla
+http://www.wikidata.org/entity/Q894235	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus rhipidurus
+http://www.wikidata.org/entity/Q903239	http://www.wikidata.org/entity/Q772442	http://www.wikidata.org/entity/Q2136103	Giraffoidea
+http://www.wikidata.org/entity/Q905268	http://www.wikidata.org/entity/Q13883248	http://www.wikidata.org/entity/Q7432	Neochen jubata
+http://www.wikidata.org/entity/Q913660	http://www.wikidata.org/entity/Q25900	http://www.wikidata.org/entity/Q34740	Nesolagus
+http://www.wikidata.org/entity/Q929105	http://www.wikidata.org/entity/Q1519264	http://www.wikidata.org/entity/Q5867959	Anguimorpha
+http://www.wikidata.org/entity/Q9339721	http://www.wikidata.org/entity/Q101680	http://www.wikidata.org/entity/Q164280	Pinoideae
+http://www.wikidata.org/entity/Q941624	http://www.wikidata.org/entity/Q2497754	http://www.wikidata.org/entity/Q6054535	Tribosphenida
+http://www.wikidata.org/entity/Q95036	http://www.wikidata.org/entity/Q18511101	http://www.wikidata.org/entity/Q7432	Diceros bicornis
+http://www.wikidata.org/entity/Q964455	http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3491996	Unikonta
+http://www.wikidata.org/entity/Q9849989	http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q37517	Coniferae
+http://www.wikidata.org/entity/Q98520229	http://www.wikidata.org/entity/Q27133	http://www.wikidata.org/entity/Q2752679	Pteridobiotina
+http://www.wikidata.org/entity/Q98522415	http://www.wikidata.org/entity/Q56639776	http://www.wikidata.org/entity/Q23760204	Cycadophytanae
+http://www.wikidata.org/entity/Q98522415	http://www.wikidata.org/entity/Q98520229	http://www.wikidata.org/entity/Q23760204	Cycadophytanae
+http://www.wikidata.org/entity/Q99234725	http://www.wikidata.org/entity/Q1329304	http://www.wikidata.org/entity/Q5867051	Taxidae
+http://www.wikidata.org/entity/Q997604	http://www.wikidata.org/entity/Q43365	http://www.wikidata.org/entity/Q7432	Corvus cryptoleucus

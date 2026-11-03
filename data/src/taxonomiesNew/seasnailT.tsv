@@ -1,0 +1,29 @@
+taxon	parent	rank	name
+http://www.wikidata.org/entity/Q1211307	http://www.wikidata.org/entity/Q5171	http://www.wikidata.org/entity/Q2111790	Spiralia
+http://www.wikidata.org/entity/Q4867740	http://www.wikidata.org/entity/Q25326	http://www.wikidata.org/entity/Q37517	Gastropoda
+http://www.wikidata.org/entity/Q48836623	http://www.wikidata.org/entity/Q48836620		Neokaryotes
+http://www.wikidata.org/entity/Q48995893	http://www.wikidata.org/entity/Q48836623		Podiata
+http://www.wikidata.org/entity/Q25326	http://www.wikidata.org/entity/Q321481	http://www.wikidata.org/entity/Q38348	Mollusca
+http://www.wikidata.org/entity/Q5171	http://www.wikidata.org/entity/Q3059449	http://www.wikidata.org/entity/Q3150876	Protostomia
+http://www.wikidata.org/entity/Q5174	http://www.wikidata.org/entity/Q729	http://www.wikidata.org/entity/Q2752679	Eumetazoa
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q48836620	http://www.wikidata.org/entity/Q19088		Orthokaryotes
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q964455	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q48995893		Amorphea
+http://www.wikidata.org/entity/Q48995893	http://www.wikidata.org/entity/Q19088		Podiata
+http://www.wikidata.org/entity/Q141527	http://www.wikidata.org/entity/Q4867740	http://www.wikidata.org/entity/Q5867051	Vetigastropoda
+http://www.wikidata.org/entity/Q24966129	http://www.wikidata.org/entity/Q1131559		Apoikozoa
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q146481	Eukaryota
+http://www.wikidata.org/entity/Q729	http://www.wikidata.org/entity/Q24966129	http://www.wikidata.org/entity/Q36732	Animalia
+http://www.wikidata.org/entity/Q2382443		http://www.wikidata.org/entity/Q22666877	Biota
+http://www.wikidata.org/entity/Q474156	http://www.wikidata.org/entity/Q19088		Amorphea
+http://www.wikidata.org/entity/Q120488301	http://www.wikidata.org/entity/Q729		Myriazoa
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q19858692	Eukaryota
+http://www.wikidata.org/entity/Q1205110	http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q19858692	Holozoa
+http://www.wikidata.org/entity/Q22087764	http://www.wikidata.org/entity/Q474156		Obazoa
+http://www.wikidata.org/entity/Q964455	http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3491996	Unikonta
+http://www.wikidata.org/entity/Q321481	http://www.wikidata.org/entity/Q1211307	http://www.wikidata.org/entity/Q2111790	Lophotrochozoa
+http://www.wikidata.org/entity/Q1131559	http://www.wikidata.org/entity/Q1205110		Filozoa
+http://www.wikidata.org/entity/Q5171	http://www.wikidata.org/entity/Q5173	http://www.wikidata.org/entity/Q3150876	Protostomia
+http://www.wikidata.org/entity/Q129021	http://www.wikidata.org/entity/Q22087764	http://www.wikidata.org/entity/Q713623	Opisthokonta
+http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q2382443	http://www.wikidata.org/entity/Q22666877	Cytota

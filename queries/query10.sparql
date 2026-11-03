@@ -1,0 +1,5 @@
+SELECT ?c
+WHERE {
+    ?c rdf:type owl:Class.
+    ?c rdf:type wd:Q7432 .
+}

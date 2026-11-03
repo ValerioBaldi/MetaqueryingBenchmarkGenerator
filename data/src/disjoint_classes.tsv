@@ -1,0 +1,51 @@
+class1	class2	class1_name	class2_name	category
+wd:Q7377	wd:Q127282	Mammalia	Actinopterygii	broad_taxa
+wd:Q7377	wd:Q5113	Mammalia	Aves	broad_taxa
+wd:Q7377	wd:Q10811	Mammalia	Reptilia	broad_taxa
+wd:Q7377	wd:Q1390	Mammalia	Insecta	broad_taxa
+wd:Q5113	wd:Q127282	Aves	Actinopterygii	broad_taxa
+wd:Q5113	wd:Q10811	Aves	Reptilia	broad_taxa
+wd:Q5113	wd:Q1390	Aves	Insecta	broad_taxa
+wd:Q10811	wd:Q127282	Reptilia	Actinopterygii	broad_taxa
+wd:Q10811	wd:Q1390	Reptilia	Insecta	broad_taxa
+wd:Q25371	wd:Q7377	Chondrichthyes	Mammalia	broad_taxa
+wd:Q25371	wd:Q5113	Chondrichthyes	Aves	broad_taxa
+wd:Q25371	wd:Q1390	Chondrichthyes	Insecta	broad_taxa
+wd:Q25265	wd:Q25324	Felidae	Canidae	family_order
+wd:Q25265	wd:Q11788	Felidae	Ursidae	family_order
+wd:Q25265	wd:Q25497	Felidae	Bovidae	family_order
+wd:Q25265	wd:Q165115	Felidae	Equidae	family_order
+wd:Q25324	wd:Q25497	Canidae	Bovidae	family_order
+wd:Q25324	wd:Q165115	Canidae	Equidae	family_order
+wd:Q11788	wd:Q25497	Ursidae	Bovidae	family_order
+wd:Q11788	wd:Q165115	Ursidae	Equidae	family_order
+wd:Q25497	wd:Q165115	Bovidae	Equidae	family_order
+wd:Q635162	wd:Q25265	Hominidae	Felidae	family_order
+wd:Q635162	wd:Q25324	Hominidae	Canidae	family_order
+wd:Q7556	wd:Q10856	Anatidae	Columbidae	family_order
+wd:Q7556	wd:Q25265	Anatidae	Felidae	family_order
+wd:Q10856	wd:Q25324	Columbidae	Canidae	family_order
+wd:Q160	wd:Q25306	Cetacea	Carnivora	family_order
+wd:Q25329	wd:Q25374	Artiodactyla	Perissodactyla	family_order
+wd:Q28319	wd:Q25309	Lepidoptera	Blattodea	family_order
+wd:Q101680	wd:Q44448	Pinaceae	Fabaceae	plant_taxa
+wd:Q146037	wd:Q44448	Cupressaceae	Fabaceae	plant_taxa
+wd:Q101680	wd:Q146037	Pinaceae	Cupressaceae	plant_taxa
+wd:Q140	wd:Q42326	Panthera leo	Columba livia	specific_taxa
+wd:Q19939	wd:Q25402	Panthera tigris	Cygnus olor	specific_taxa
+wd:Q20717272	wd:Q220328	Canis familiaris	Psittacus erithacus	specific_taxa
+wd:Q20980826	wd:Q36557	Felis catus	Loxodonta africana	specific_taxa
+wd:Q726	wd:Q26843	Equus ferus caballus	Orcinus orca	specific_taxa
+wd:Q19610691	wd:Q132072	Bos taurus	Delphinapterus leucas	specific_taxa
+wd:Q29350771	wd:Q33609	Ovis aries	Ursus maritimus	specific_taxa
+wd:Q45320358	wd:Q40994	Capra hircus	Odobenus rosmarus	specific_taxa
+wd:Q15083	wd:Q25357	Giraffa camelopardalis	Corvus corax	specific_taxa
+wd:Q34505	wd:Q220328	Hippopotamus amphibius	Psittacus erithacus	specific_taxa
+wd:Q47910	wd:Q140	Rhinoceros unicornis	Panthera leo	specific_taxa
+wd:Q95036	wd:Q20717272	Diceros bicornis	Canis familiaris	specific_taxa
+wd:Q23907	wd:Q19610691	Acinonyx jubatus	Bos taurus	specific_taxa
+wd:Q737838	wd:Q42326	Gorilla gorilla	Columba livia	specific_taxa
+wd:Q4126704	wd:Q25402	Pan troglodytes	Cygnus olor	specific_taxa
+wd:Q156944	wd:Q140	Acer pseudoplatanus	Panthera leo	cross_kingdom
+wd:Q146149	wd:Q18498	Fagus sylvatica	Canis lupus	cross_kingdom
+wd:Q133006	wd:Q220328	Elephas maximus	Psittacus erithacus	specific_taxa

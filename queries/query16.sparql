@@ -1,0 +1,6 @@
+SELECT ?x ?y ?z ?w
+WHERE {
+    ?x ex:predatorOf ?y .
+    ?y ex:predatorOf ?z .
+    ?z ex:predatorOf ?w .
+}

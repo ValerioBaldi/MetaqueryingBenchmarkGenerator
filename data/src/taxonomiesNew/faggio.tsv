@@ -1,0 +1,25 @@
+taxon	parent	rank	name
+http://www.wikidata.org/entity/Q11931934	http://www.wikidata.org/entity/Q100242165		Lignophyta
+http://www.wikidata.org/entity/Q145977	http://www.wikidata.org/entity/Q21881	http://www.wikidata.org/entity/Q35409	Fagaceae
+http://www.wikidata.org/entity/Q146149	http://www.wikidata.org/entity/Q25403	http://www.wikidata.org/entity/Q7432	Fagus sylvatica
+http://www.wikidata.org/entity/Q127700062	http://www.wikidata.org/entity/Q4589415		Cam
+http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q27133	http://www.wikidata.org/entity/Q3491997	Spermatophytes
+http://www.wikidata.org/entity/Q4589415	http://www.wikidata.org/entity/Q19088		Diaphoretickes
+http://www.wikidata.org/entity/Q25403	http://www.wikidata.org/entity/Q14920699	http://www.wikidata.org/entity/Q34740	Fagus
+http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q879246	http://www.wikidata.org/entity/Q36732	Plantae
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q146481	Eukaryota
+http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q11931934	http://www.wikidata.org/entity/Q3491997	Spermatophytes
+http://www.wikidata.org/entity/Q2382443		http://www.wikidata.org/entity/Q22666877	Biota
+http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q3395822	http://www.wikidata.org/entity/Q3491997	Spermatophytes
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q19858692	Eukaryota
+http://www.wikidata.org/entity/Q124488452	http://www.wikidata.org/entity/Q338878		Eurosids
+http://www.wikidata.org/entity/Q3395822	http://www.wikidata.org/entity/Q192154		Polysporangiophytes
+http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q36732	Plantae
+http://www.wikidata.org/entity/Q11973077	http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q2752679	Viridiplantae
+http://www.wikidata.org/entity/Q14920699	http://www.wikidata.org/entity/Q145977	http://www.wikidata.org/entity/Q164280	Fagoideae
+http://www.wikidata.org/entity/Q192154	http://www.wikidata.org/entity/Q133527	http://www.wikidata.org/entity/Q23760204	Embryophytes
+http://www.wikidata.org/entity/Q21881	http://www.wikidata.org/entity/Q2683213	http://www.wikidata.org/entity/Q36602	Fagales
+http://www.wikidata.org/entity/Q133527	http://www.wikidata.org/entity/Q11973077	http://www.wikidata.org/entity/Q3150876	Streptophyta
+http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q642865	http://www.wikidata.org/entity/Q3491997	Spermatophytes
+http://www.wikidata.org/entity/Q100242165	http://www.wikidata.org/entity/Q642865		Radiatopses
+http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q2382443	http://www.wikidata.org/entity/Q22666877	Cytota

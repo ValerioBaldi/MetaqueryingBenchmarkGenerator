@@ -1,0 +1,1833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1519264">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2718670">
+    <rdfs:label>Atlantogenata</rdfs:label>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6054237"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q130942">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5867051"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6054425"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2478975"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2910821"/>
+    <rdfs:label>Theria</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q29564928">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Cygnus</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q13508009"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q620938"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q37517">
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q26012">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Strigidae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25222"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11973077">
+    <rdfs:label>Viridiplantae</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q2752679"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q756"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1074819">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q8327"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q164280"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Psittacinae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q145977">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q21881"/>
+    <rdfs:label>Fagaceae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25900">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25401"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Leporidae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q68947">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q104864059">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25341"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q713623"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Eupasseres</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q10741687">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25900"/>
+    <rdfs:label>Bunolagus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36151813">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q713623"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q16986600"/>
+    <rdfs:label>Hologalegina</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q21878">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2683213"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Fabales</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q756">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q879246"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36732"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Plantae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q220328">
+    <rdfs:label>Psittacus erithacus</rdfs:label>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q10809423"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q82562">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q620938"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q227936"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Anserini</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q129021">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q22087764"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q964455"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q474156"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q713623"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Opisthokonta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q37083">
+    <rdfs:label>Olea europaea</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q296910"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1210274">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1390"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Dicondylia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q16992293">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1000370">
+    <rdfs:label>Pinales</rdfs:label>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1329304"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q26708524">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1241896">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q334460"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Ginkgophyta</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q133712"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q56639776"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13883248">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q7556"/>
+    <rdfs:label>Neochen</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7195896">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5867051"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1329304"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q134677"/>
+    <rdfs:label>Pinidae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q244107">
+    <rdfs:label>Nettapus</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q27725"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q99234725">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5867051"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1329304"/>
+    <rdfs:label>Taxidae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/taxonomy/Taxon">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q941624">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6054535"/>
+    <rdfs:label>Tribosphenida</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2497754"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7460384">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q274179">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q259050"/>
+    <rdfs:label>Alopochen aegyptiaca</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25537662">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5867959"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q16986904"/>
+    <rdfs:label>Serpentes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q18579837">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q2136103"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q31431"/>
+    <rdfs:label>Strigopoidea</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q133712">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25814"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q14899727"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1425109"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3504061"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q334460"/>
+    <rdfs:label>Gymnospermae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q145992">
+    <rdfs:label>Picea abies</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q26782"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1064214">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3150876">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q10804633">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25900"/>
+    <rdfs:label>Pentalagus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2910821">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q941624"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2497754"/>
+    <rdfs:label>Boreosphenida</rdfs:label>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6054535"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q132825">
+    <rdfs:label>Pinophyta</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q334460"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q98522415"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q367753">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Chloephaga</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q21153"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q227936">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19858692">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48836623">
+    <rdfs:label>Neokaryotes</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q48836620"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q123575881">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q10809423">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1074819"/>
+    <rdfs:label>Psittacus</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q163025">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q171425"/>
+    <rdfs:label>Platanus</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q12765692">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdfs:label>Phaethontiformes</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q19597226"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q124776324">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Haptodontiformes</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q124776411"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q146149">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25403"/>
+    <rdfs:label>Fagus sylvatica</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q21742">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdfs:label>Lamiales</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2182368"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q22087764">
+    <rdfs:label>Obazoa</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q474156"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q782930">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Avialae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q136586"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11316002">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q33230017">
+    <rdfs:label>Elephantina</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3965313"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q22934894"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25814">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3491997"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q3395822"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q11931934"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q27133"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q642865"/>
+    <rdfs:label>Spermatophytes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q146481">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1349838">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Eupelycosauria</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q189069"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q14441345">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5867959"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Anseres</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q21651"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19962355">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5868144"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Psittacimorphae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q5856078"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q685653">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25900"/>
+    <rdfs:label>Pronolagus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2981883">
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q10788836">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q37517"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Ginkgoopsida</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1241896"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210416">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q620938"/>
+    <rdfs:label>Branta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2697797">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1329304"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q99234725"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Taxales</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q133006">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q310746"/>
+    <rdfs:label>Elephas maximus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q22934885">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q164280"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2372824"/>
+    <rdfs:label>Elephantinae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q21887">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2683213"/>
+    <rdfs:label>Malpighiales</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27147">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdfs:label>Sapindaceae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q26316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q20686726">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q119822370">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q326483">
+    <rdfs:label>Eufalconimorphae</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q14635103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q247412">
+    <rdfs:label>Plectropterus gambensis</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q14122369"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7432">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q15873814">
+    <rdfs:label>Cereopsis</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q7556"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q21651">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q19896718"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdfs:label>Anseriformes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36602">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q930410">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1153785">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q158608">
+    <rdfs:label>Quercus petraea</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q12004"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q155966">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Oleaceae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q21742"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q161105">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q163025"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Platanus orientalis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19896718">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5868144"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25305236"/>
+    <rdfs:label>Anserimorphae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2752679">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q156944">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q42292"/>
+    <rdfs:label>Acer pseudoplatanus</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q133190">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Ornithodira</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q133187"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19597226">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7556">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Anatidae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q16124376"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13508009">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q227936"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q620938"/>
+    <rdfs:label>Cygnini</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q747502">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q14899727">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q334460"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Embryophyta siphonogama</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q756"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q98522415">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q23760204"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Cycadophytanae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q56639776"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q98520229"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q145206">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Neotheropoda</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q188438"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q16986904">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1519264"/>
+    <rdfs:label>Ophidia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q124775759">
+    <rdfs:label>Pantherapsida</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q930410"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q133128">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Pinus sylvestris</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q14965389"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q28432236">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25401">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q660432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Lagomorpha</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13624220">
+    <rdfs:label>Psittacoidea</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q2136103"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q31431"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q322241">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q5853182"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Therapsida</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q10296147">
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q14635103">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Australavis</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q20645445"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q134683">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q19159"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Reptiliomorpha</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q713623">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25402">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q29564928"/>
+    <rdfs:label>Cygnus olor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q188438">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q713623"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2013709"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q186334"/>
+    <rdfs:label>Theropoda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q194240">
+    <rdfs:label>Passeri</rdfs:label>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5867959"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q104864059"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q92189203">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q913660">
+    <rdfs:label>Nesolagus</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25900"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q21153">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q164280"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q7556"/>
+    <rdfs:label>Tadorninae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q131801">
+    <rdfs:label>Cynodontia</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q5414469"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2200094">
+    <rdfs:label>Avebrevicauda</rdfs:label>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q18389731"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q474156">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q48995893"/>
+    <rdfs:label>Amorphea</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q21838">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q165468"/>
+    <rdfs:label>Proteales</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q21881">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2683213"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Fagales</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q22934894">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q227936"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q22934885"/>
+    <rdfs:label>Elephantini</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q22666877">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q135105005">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q19961898"/>
+    <rdfs:label>Parapasseres</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q144218">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q14786632"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdfs:label>Coscoroba coscoroba</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q616657">
+    <rdfs:label>Dinosauromorpha</rdfs:label>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q133190"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q788544">
+    <rdfs:label>Strigopidae</rdfs:label>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q18579837"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q186334">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q430"/>
+    <rdfs:label>Saurischia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1390">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q37517"/>
+    <rdfs:label>Insecta</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q105146"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q14957261">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3238261"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q12024"/>
+    <rdfs:label>Pinus subg. Pinus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q34740">
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q310746">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q33230017"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Elephas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q869223">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q259050">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19969066">
+    <rdfs:label>Accipitroidea</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q19963386"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q11316002"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q2136103"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2182368">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q747502"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>lamiids</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q183361">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Anser</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q82562"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q338878">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q334460">
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q132812">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q322241"/>
+    <rdfs:label>Theriodontia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5856078">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Psittacopasserae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q326483"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36732">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q12004">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q145977"/>
+    <rdfs:label>Quercus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q132072">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q16628343"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Delphinapterus leucas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2361851">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q16987281">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5868144"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Panorpida</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q37140800"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q48970749"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q14965389">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3181348"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Pinus sect. Pinus</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q14957261"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q748448">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25900"/>
+    <rdfs:label>Sylvilagus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5176">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q2111790"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Ecdysozoa</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q5171"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3491996">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q964455">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3491996"/>
+    <rdfs:label>Unikonta</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2997417">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q334460"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Cormophyta</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q756"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q56639776">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Acrogymnospermae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25814"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25833">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q430">
+    <rdfs:label>Dinosauria</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5868144"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q52798775"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1131559">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1205110"/>
+    <rdfs:label>Filozoa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q134677">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q37517"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Equisetopsida</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q3055913"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q124776186">
+    <rdfs:label>Sphenacomorpha</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q124776324"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q123504133">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5868144"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Mecopterida</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q48970749"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q26316">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2133361"/>
+    <rdfs:label>Sapindales</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q10811874">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25900"/>
+    <rdfs:label>Romerolagus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q101680">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdfs:label>Pinaceae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1000370"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q21908">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2133361"/>
+    <rdfs:label>Malvales</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3055913">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q334460"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q756"/>
+    <rdfs:label>Equisetophyta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2136103">
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q12024">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Pinus</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q9339721"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q163489">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q164280"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q27147"/>
+    <rdfs:label>Hippocastanoideae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2372824">
+    <rdfs:label>Elephantidae</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q5359418"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q296910">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Olea</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q155966"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5171">
+    <rdfs:label>Protostomia</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q5173"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q3059449"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3150876"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2382443">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q22666877"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Biota</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q837402">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdfs:label>Chenonetta jubata</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2962666"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2740164">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Dinosauriformes</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q616657"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q165468">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5174">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q2752679"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <rdfs:label>Eumetazoa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q26197587">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q879246">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q329457">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Sauropsida</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q181537"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q16986600">
+    <rdfs:label>Non-protein amino acid-accumulating clade</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q713623"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q28432236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q131341">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Crurotarsi</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q282487"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q10856">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Columbidae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q28078"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q9339721">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q101680"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q164280"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Pinoideae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q20747320">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q68947"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q168903"/>
+    <rdfs:label>Bos primigenius taurus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q133187">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q130910"/>
+    <rdfs:label>Avemetatarsalia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5867959">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27725">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q164280"/>
+    <rdfs:label>Anatinae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q7556"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3238261">
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25403">
+    <rdfs:label>Fagus</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q14920699"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q120488301">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Myriazoa</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q729"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q14122369">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q7556"/>
+    <rdfs:label>Plectropterus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q156551">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdfs:label>Malvaceae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q21908"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q17092469">
+    <rdfs:label>Eutheria</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q130942"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q713623"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3322575">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q22666877"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2382443"/>
+    <rdfs:label>Cytota</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q159224">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q156551"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q164280"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Tilioideae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2007442">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q642865">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q6054237">
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q660432">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q92189203"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6462265"/>
+    <rdfs:label>Glires</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q105146">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q1153785"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q671280"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q81196012"/>
+    <rdfs:label>Hexapoda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q18389731">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Euavialae</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q782930"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q133527">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q11973077"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3150876"/>
+    <rdfs:label>Streptophyta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2478975">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q2007442"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Holotheria</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2513125"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19159">
+    <rdfs:label>Tetrapoda</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3504061"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q7460384"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q27133">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q16628343">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q16124376">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q14441345"/>
+    <rdfs:label>Anatoidea</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q2136103"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q6054425">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q659685">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2851721"/>
+    <rdfs:label>Anniella</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19088">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19858692"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q146481"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q3322575"/>
+    <rdfs:label>Eukaryota</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q52798775">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q9849989">
+    <rdfs:label>Coniferae</rdfs:label>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q37517"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q133712"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2851721">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q24966129">
+    <rdfs:label>Apoikozoa</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1131559"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q26782">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q14920716"/>
+    <rdfs:label>Picea</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5359418">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q2136103"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q20686726"/>
+    <rdfs:label>Elephantoidea</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q10803279">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25900"/>
+    <rdfs:label>Oryctolagus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q929105">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5867959"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1519264"/>
+    <rdfs:label>Anguimorpha</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q100242165">
+    <rdfs:label>Radiatopses</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q642865"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q181537">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5867051">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q212937">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1064214"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Anseranas semipalmata</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2497754">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19963386">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5867959"/>
+    <rdfs:label>Accipitri</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q35409">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5414469">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Eutheriodontia</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q132812"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25222">
+    <rdfs:label>Strigiformes</rdfs:label>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q15718604"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2962666">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q10808047">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q25900"/>
+    <rdfs:label>Poelagus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q135800">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2200094"/>
+    <rdfs:label>Pygostylia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q134688">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q98520229">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q2752679"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Pteridobiotina</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q27133"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q38348">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q8327">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q13624220"/>
+    <rdfs:label>Psittacidae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q14920716">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q101680"/>
+    <rdfs:label>Piceoideae</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q164280"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q124488452">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q338878"/>
+    <rdfs:label>Eurosids</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q594224">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q123504133"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q304358"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q37140800"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q16987281"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5868144"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Amphiesmenoptera</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/.well-known/genid/00287862b2d135c1056703a1f9befd8a">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1360">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q38348"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Arthropoda</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q5176"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25341">
+    <rdfs:label>Passeriformes</rdfs:label>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q135105005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q25305236">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5868144">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3059449">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192164">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5867959"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q45845169"/>
+    <rdfs:label>Ruminantia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q136586">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1329304">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q132825"/>
+    <rdfs:label>Pinopsida</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q37517"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q620938">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q164280"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q7556"/>
+    <rdfs:label>Anserinae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1378800">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q28746016">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5173">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3181348">
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48995893">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q48836623"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Podiata</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48836620">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <rdfs:label>Orthokaryotes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1205110">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19858692"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q129021"/>
+    <rdfs:label>Holozoa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q6311258">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q4188599">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2513125">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q26708524"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5867051"/>
+    <rdfs:label>Theriiformes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q14920699">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q164280"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q145977"/>
+    <rdfs:label>Fagoideae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1425109">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q334460"/>
+    <rdfs:label>Anthophyta</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q2997417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q729">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q24966129"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36732"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Animalia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q124776411">
+    <rdfs:label>Metopophora</rdfs:label>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1349838"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013709">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q186334"/>
+    <rdfs:label>Eusaurischia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19961898">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5868144"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q5856078"/>
+    <rdfs:label>Passerimorphae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q33176649">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q227936"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q22934885"/>
+    <rdfs:label>Loxodontini</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q130910">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q23760204">
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q60922428">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48970749">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q28319">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q37140800"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q594224"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q304358"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdfs:label>Lepidoptera</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q37140800">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q26745">
+    <rdfs:label>Acer platanoides</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7432"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q42292"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3395822">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Polysporangiophytes</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q192154"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q282487">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q28078">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2683213">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q171425">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q35409"/>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q21838"/>
+    <rdfs:label>Platanaceae</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q11931934">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q100242165"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdfs:label>Lignophyta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q6462265">
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q671280">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Pancrustacea</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q1633496"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q24031895">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q42292">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34740"/>
+    <rdfs:label>Acer</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q163489"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q14786632">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q168903">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q20645445">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192154">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q23760204"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Embryophytes</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q133527"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q45845169">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q81196012">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Allotriocarida</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q671280"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3491997">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q21075082">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q31431">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36602"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Psittaciformes</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q19962355"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189069">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q181537"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Synapsida</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q15718604">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q150598">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3965313">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q5853182">
+    <rdfs:subClassOf rdf:resource="http://www.wikidata.org/entity/Q124775759"/>
+    <rdfs:label>Sphenacodontoidea</rdfs:label>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q304358">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19595747">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2133361">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1633496">
+    <rdf:type rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/.well-known/genid/e354c620669c9b17f88f987502637f2c">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3504061">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/taxonomy/TaxonomicRank">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2111790">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q6054535">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q164280">
+    <rdfs:subClassOf rdf:resource="http://example.org/taxonomy/Taxon"/>
+    <rdf:type rdf:resource="http://example.org/taxonomy/TaxonomicRank"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+</rdf:RDF>

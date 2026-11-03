@@ -1,0 +1,18 @@
+metric	value
+rdf_triples	2890
+classes	632
+ordinary_individuals	0
+ordinary_type_assertions	0
+metamodeling_assertions	1084
+subclass_axioms	646
+subproperty_axioms	0
+inverse_axioms	0
+class_disjointness_axioms	0
+role_disjointness_axioms	0
+domain_axioms	0
+range_axioms	0
+reflexive_properties	0
+irreflexive_properties	0
+eligible_ordinary_individuals	29989
+represented_primary_strata	0
+sampling_percentage	

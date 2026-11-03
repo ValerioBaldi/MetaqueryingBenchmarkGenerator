@@ -1,0 +1,6 @@
+SELECT ?x ?y ?c1 ?c2
+WHERE {
+    ?x ex:predatorOf ?y .
+    ?x rdf:type ?c1 .
+    ?y rdf:type ?c2 .
+}

@@ -1,0 +1,4 @@
+SELECT ?x ?y
+WHERE {
+    ?x owl:differentFrom ?y .
+}

@@ -1,0 +1,50 @@
+taxon	parent	rank	name
+http://www.wikidata.org/entity/Q11931934	http://www.wikidata.org/entity/Q100242165		Lignophyta
+http://www.wikidata.org/entity/Q7195896	http://www.wikidata.org/entity/Q134677	http://www.wikidata.org/entity/Q5867051	Pinidae
+http://www.wikidata.org/entity/Q27355	http://www.wikidata.org/entity/Q223751	http://www.wikidata.org/entity/Q34740	Taxus
+http://www.wikidata.org/entity/Q98522415	http://www.wikidata.org/entity/Q98520229	http://www.wikidata.org/entity/Q23760204	Cycadophytanae
+http://www.wikidata.org/entity/Q132825	http://www.wikidata.org/entity/Q98522415	http://www.wikidata.org/entity/Q334460	Pinophyta
+http://www.wikidata.org/entity/Q99234725	http://www.wikidata.org/entity/Q1329304	http://www.wikidata.org/entity/Q5867051	Taxidae
+http://www.wikidata.org/entity/Q127700062	http://www.wikidata.org/entity/Q4589415		Cam
+http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q27133	http://www.wikidata.org/entity/Q3491997	Spermatophytes
+http://www.wikidata.org/entity/Q4589415	http://www.wikidata.org/entity/Q19088		Diaphoretickes
+http://www.wikidata.org/entity/Q179729	http://www.wikidata.org/entity/Q27355	http://www.wikidata.org/entity/Q7432	Taxus baccata
+http://www.wikidata.org/entity/Q134677	http://www.wikidata.org/entity/Q3055913	http://www.wikidata.org/entity/Q37517	Equisetopsida
+http://www.wikidata.org/entity/Q7195896	http://www.wikidata.org/entity/Q1329304	http://www.wikidata.org/entity/Q5867051	Pinidae
+http://www.wikidata.org/entity/Q98520229	http://www.wikidata.org/entity/Q27133	http://www.wikidata.org/entity/Q2752679	Pteridobiotina
+http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q879246	http://www.wikidata.org/entity/Q36732	Plantae
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q146481	Eukaryota
+http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q11931934	http://www.wikidata.org/entity/Q3491997	Spermatophytes
+http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q1425109	http://www.wikidata.org/entity/Q334460	Gymnospermae
+http://www.wikidata.org/entity/Q2382443		http://www.wikidata.org/entity/Q22666877	Biota
+http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q14899727	http://www.wikidata.org/entity/Q334460	Gymnospermae
+http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q1425109	http://www.wikidata.org/entity/Q3504061	Gymnospermae
+http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q14899727	http://www.wikidata.org/entity/Q3504061	Gymnospermae
+http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q3395822	http://www.wikidata.org/entity/Q3491997	Spermatophytes
+http://www.wikidata.org/entity/Q223751	http://www.wikidata.org/entity/Q9849989	http://www.wikidata.org/entity/Q35409	Taxaceae
+http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q19858692	Eukaryota
+http://www.wikidata.org/entity/Q223751	http://www.wikidata.org/entity/Q1000370	http://www.wikidata.org/entity/Q35409	Taxaceae
+http://www.wikidata.org/entity/Q3395822	http://www.wikidata.org/entity/Q192154		Polysporangiophytes
+http://www.wikidata.org/entity/Q2997417	http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q334460	Cormophyta
+http://www.wikidata.org/entity/Q223751	http://www.wikidata.org/entity/Q5794838	http://www.wikidata.org/entity/Q35409	Taxaceae
+http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q334460	Gymnospermae
+http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q3504061	Gymnospermae
+http://www.wikidata.org/entity/Q5794838	http://www.wikidata.org/entity/Q7195896	http://www.wikidata.org/entity/Q36602	Cupressales
+http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q19088	http://www.wikidata.org/entity/Q36732	Plantae
+http://www.wikidata.org/entity/Q2697797	http://www.wikidata.org/entity/Q99234725	http://www.wikidata.org/entity/Q36602	Taxales
+http://www.wikidata.org/entity/Q98522415	http://www.wikidata.org/entity/Q56639776	http://www.wikidata.org/entity/Q23760204	Cycadophytanae
+http://www.wikidata.org/entity/Q11973077	http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q2752679	Viridiplantae
+http://www.wikidata.org/entity/Q1425109	http://www.wikidata.org/entity/Q2997417	http://www.wikidata.org/entity/Q334460	Anthophyta
+http://www.wikidata.org/entity/Q192154	http://www.wikidata.org/entity/Q133527	http://www.wikidata.org/entity/Q23760204	Embryophytes
+http://www.wikidata.org/entity/Q2697797	http://www.wikidata.org/entity/Q1329304	http://www.wikidata.org/entity/Q36602	Taxales
+http://www.wikidata.org/entity/Q1000370	http://www.wikidata.org/entity/Q1329304	http://www.wikidata.org/entity/Q36602	Pinales
+http://www.wikidata.org/entity/Q133527	http://www.wikidata.org/entity/Q11973077	http://www.wikidata.org/entity/Q3150876	Streptophyta
+http://www.wikidata.org/entity/Q25814	http://www.wikidata.org/entity/Q642865	http://www.wikidata.org/entity/Q3491997	Spermatophytes
+http://www.wikidata.org/entity/Q223751	http://www.wikidata.org/entity/Q2697797	http://www.wikidata.org/entity/Q35409	Taxaceae
+http://www.wikidata.org/entity/Q9849989	http://www.wikidata.org/entity/Q133712	http://www.wikidata.org/entity/Q37517	Coniferae
+http://www.wikidata.org/entity/Q1329304	http://www.wikidata.org/entity/Q132825	http://www.wikidata.org/entity/Q37517	Pinopsida
+http://www.wikidata.org/entity/Q3055913	http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q334460	Equisetophyta
+http://www.wikidata.org/entity/Q100242165	http://www.wikidata.org/entity/Q642865		Radiatopses
+http://www.wikidata.org/entity/Q56639776	http://www.wikidata.org/entity/Q25814		Acrogymnospermae
+http://www.wikidata.org/entity/Q3322575	http://www.wikidata.org/entity/Q2382443	http://www.wikidata.org/entity/Q22666877	Cytota
+http://www.wikidata.org/entity/Q14899727	http://www.wikidata.org/entity/Q756	http://www.wikidata.org/entity/Q334460	Embryophyta siphonogama

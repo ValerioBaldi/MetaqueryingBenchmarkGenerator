@@ -1,0 +1,5 @@
+SELECT ?predator ?prey
+WHERE {
+    ?predator ex:landPredatorOf ?prey .
+    ?prey ex:preyOf ?predator .
+}
